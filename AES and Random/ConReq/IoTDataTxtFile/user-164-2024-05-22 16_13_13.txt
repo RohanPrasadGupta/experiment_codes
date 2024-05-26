@@ -1,0 +1,24 @@
+{
+    "first_name": "Roberto",
+    "last_name": "Green",
+    "date_of_birth": "1966-08-28",
+    "gender": "Male",
+    "address": "2982 Reginald Route Apt. 178\nPort Jacqueline, IA 74737",
+    "phone_number": "4252679369",
+    "email_address": "iortega@example.com",
+    "authorized_data_users": [
+        "EMP021",
+        "EMP036",
+        "EMP035"
+    ],
+    "user_id": 164,
+    "heart_rate": 84,
+    "blood_pressure": "92/87",
+    "respiration_rate": 15,
+    "body_temperature": 37.45,
+    "blood_glucose_levels": 132.69107952298398,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 72.33,
+    "data_creation_time": 1716369193.7895494,
+    "timestamp": "2024-05-22 16:13:13"
+}

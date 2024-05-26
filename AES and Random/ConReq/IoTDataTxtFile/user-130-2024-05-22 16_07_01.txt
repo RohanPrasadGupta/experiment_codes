@@ -1,0 +1,28 @@
+{
+    "first_name": "Billy",
+    "last_name": "Ingram",
+    "date_of_birth": "1968-12-28",
+    "gender": "Male",
+    "address": "616 Klein Gardens\nPort Peter, MA 58809",
+    "phone_number": "+1-989-753-6327x360",
+    "email_address": "jonesisaac@example.net",
+    "authorized_data_users": [
+        "EMP044",
+        "EMP009",
+        "EMP055",
+        "EMP077",
+        "EMP026",
+        "EMP075",
+        "EMP002"
+    ],
+    "user_id": 130,
+    "heart_rate": 70,
+    "blood_pressure": "130/88",
+    "respiration_rate": 16,
+    "body_temperature": 36.49,
+    "blood_glucose_levels": 99.93519316619991,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 60.48,
+    "data_creation_time": 1716368821.6574414,
+    "timestamp": "2024-05-22 16:07:01"
+}

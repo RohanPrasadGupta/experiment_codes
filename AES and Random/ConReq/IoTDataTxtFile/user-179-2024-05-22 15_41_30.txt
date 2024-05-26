@@ -1,0 +1,28 @@
+{
+    "first_name": "Alan",
+    "last_name": "Lee",
+    "date_of_birth": "1992-06-10",
+    "gender": "Male",
+    "address": "1954 Fleming Place Suite 617\nNorth Nicholasshire, MD 63684",
+    "phone_number": "+1-963-764-1758x7744",
+    "email_address": "luiskidd@example.com",
+    "authorized_data_users": [
+        "EMP019",
+        "EMP074",
+        "EMP072",
+        "EMP052",
+        "EMP071",
+        "EMP077",
+        "EMP037"
+    ],
+    "user_id": 179,
+    "heart_rate": 84,
+    "blood_pressure": "140/89",
+    "respiration_rate": 18,
+    "body_temperature": 36.29,
+    "blood_glucose_levels": 129.50490661975851,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 79.49,
+    "data_creation_time": 1716367290.1929705,
+    "timestamp": "2024-05-22 15:41:30"
+}

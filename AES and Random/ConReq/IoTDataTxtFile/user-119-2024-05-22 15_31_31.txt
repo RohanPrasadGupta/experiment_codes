@@ -1,0 +1,22 @@
+{
+    "first_name": "Jennifer",
+    "last_name": "Perez",
+    "date_of_birth": "1950-07-04",
+    "gender": "Female",
+    "address": "0566 Michelle Haven\nHeatherhaven, MH 79003",
+    "phone_number": "776.331.5811",
+    "email_address": "brucehobbs@example.com",
+    "authorized_data_users": [
+        "EMP026"
+    ],
+    "user_id": 119,
+    "heart_rate": 73,
+    "blood_pressure": "109/60",
+    "respiration_rate": 14,
+    "body_temperature": 36.86,
+    "blood_glucose_levels": 122.99171977720468,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 71.57,
+    "data_creation_time": 1716366691.0541975,
+    "timestamp": "2024-05-22 15:31:31"
+}

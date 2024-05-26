@@ -1,0 +1,26 @@
+{
+    "first_name": "Donald",
+    "last_name": "Peterson",
+    "date_of_birth": "1985-04-11",
+    "gender": "Female",
+    "address": "13981 Hernandez Loaf\nSouth Brendastad, NH 39384",
+    "phone_number": "(489)992-8418x3497",
+    "email_address": "xhernandez@example.net",
+    "authorized_data_users": [
+        "EMP010",
+        "EMP059",
+        "EMP028",
+        "EMP068",
+        "EMP004"
+    ],
+    "user_id": 155,
+    "heart_rate": 75,
+    "blood_pressure": "130/69",
+    "respiration_rate": 17,
+    "body_temperature": 36.97,
+    "blood_glucose_levels": 80.2220195230105,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 64.37,
+    "data_creation_time": 1716369126.757129,
+    "timestamp": "2024-05-22 16:12:06"
+}

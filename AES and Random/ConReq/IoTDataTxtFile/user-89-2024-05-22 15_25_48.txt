@@ -1,0 +1,22 @@
+{
+    "first_name": "Christian",
+    "last_name": "Kirk",
+    "date_of_birth": "1944-10-27",
+    "gender": "Female",
+    "address": "96431 Angela Estate Apt. 915\nJacobside, NC 67805",
+    "phone_number": "001-486-317-7323x53229",
+    "email_address": "richard47@example.org",
+    "authorized_data_users": [
+        "EMP058"
+    ],
+    "user_id": 89,
+    "heart_rate": 85,
+    "blood_pressure": "128/67",
+    "respiration_rate": 14,
+    "body_temperature": 36.76,
+    "blood_glucose_levels": 107.85758201370224,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 54.46,
+    "data_creation_time": 1716366348.982976,
+    "timestamp": "2024-05-22 15:25:48"
+}

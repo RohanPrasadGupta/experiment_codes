@@ -1,0 +1,28 @@
+{
+    "first_name": "Jeremy",
+    "last_name": "Booth",
+    "date_of_birth": "1970-08-11",
+    "gender": "Male",
+    "address": "473 Robbins Tunnel\nNorth Jill, FM 80623",
+    "phone_number": "465.568.1158x29684",
+    "email_address": "istephens@example.org",
+    "authorized_data_users": [
+        "EMP010",
+        "EMP081",
+        "EMP024",
+        "EMP033",
+        "EMP032",
+        "EMP001",
+        "EMP034"
+    ],
+    "user_id": 82,
+    "heart_rate": 79,
+    "blood_pressure": "132/69",
+    "respiration_rate": 16,
+    "body_temperature": 36.99,
+    "blood_glucose_levels": 107.82921041872667,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 61.92,
+    "data_creation_time": 1716366265.9635699,
+    "timestamp": "2024-05-22 15:24:25"
+}

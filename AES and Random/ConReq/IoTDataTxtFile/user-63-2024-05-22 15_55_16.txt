@@ -1,0 +1,30 @@
+{
+    "first_name": "Michael",
+    "last_name": "Morales",
+    "date_of_birth": "1987-03-19",
+    "gender": "Female",
+    "address": "685 Bates Ford Suite 886\nLake Jane, NE 94013",
+    "phone_number": "(495)281-7457x35137",
+    "email_address": "mmurray@example.org",
+    "authorized_data_users": [
+        "EMP069",
+        "EMP065",
+        "EMP073",
+        "EMP026",
+        "EMP037",
+        "EMP082",
+        "EMP010",
+        "EMP002",
+        "EMP029"
+    ],
+    "user_id": 63,
+    "heart_rate": 65,
+    "blood_pressure": "116/72",
+    "respiration_rate": 16,
+    "body_temperature": 36.3,
+    "blood_glucose_levels": 77.1427443741911,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 90.64,
+    "data_creation_time": 1716368116.4213688,
+    "timestamp": "2024-05-22 15:55:16"
+}

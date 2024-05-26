@@ -1,0 +1,30 @@
+{
+    "first_name": "Cameron",
+    "last_name": "Cortez",
+    "date_of_birth": "1954-06-09",
+    "gender": "Male",
+    "address": "05933 Bauer Square\nPort Eric, WY 89295",
+    "phone_number": "(686)551-2436x5755",
+    "email_address": "thomas69@example.net",
+    "authorized_data_users": [
+        "EMP017",
+        "EMP024",
+        "EMP012",
+        "EMP067",
+        "EMP053",
+        "EMP030",
+        "EMP065",
+        "EMP010",
+        "EMP031"
+    ],
+    "user_id": 153,
+    "heart_rate": 100,
+    "blood_pressure": "94/66",
+    "respiration_rate": 16,
+    "body_temperature": 36.55,
+    "blood_glucose_levels": 116.47429024466216,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 87.93,
+    "data_creation_time": 1716369109.7490785,
+    "timestamp": "2024-05-22 16:11:49"
+}

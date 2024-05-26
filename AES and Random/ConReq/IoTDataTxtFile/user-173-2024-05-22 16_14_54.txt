@@ -1,0 +1,30 @@
+{
+    "first_name": "Brittney",
+    "last_name": "Scott",
+    "date_of_birth": "1947-05-31",
+    "gender": "Female",
+    "address": "9204 Hutchinson Springs\nReedport, VI 34565",
+    "phone_number": "237.511.6311x536",
+    "email_address": "lindsay15@example.org",
+    "authorized_data_users": [
+        "EMP078",
+        "EMP040",
+        "EMP011",
+        "EMP057",
+        "EMP049",
+        "EMP024",
+        "EMP080",
+        "EMP066",
+        "EMP073"
+    ],
+    "user_id": 173,
+    "heart_rate": 92,
+    "blood_pressure": "107/82",
+    "respiration_rate": 12,
+    "body_temperature": 36.28,
+    "blood_glucose_levels": 85.83231973333885,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 81.54,
+    "data_creation_time": 1716369294.8271718,
+    "timestamp": "2024-05-22 16:14:54"
+}

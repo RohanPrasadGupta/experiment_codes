@@ -1,0 +1,28 @@
+{
+    "first_name": "Brandon",
+    "last_name": "Parks",
+    "date_of_birth": "1995-07-09",
+    "gender": "Female",
+    "address": "2732 Jason Mission Apt. 771\nEast Andrea, MN 35669",
+    "phone_number": "433.448.0996x578",
+    "email_address": "scott91@example.org",
+    "authorized_data_users": [
+        "EMP029",
+        "EMP017",
+        "EMP042",
+        "EMP051",
+        "EMP058",
+        "EMP078",
+        "EMP034"
+    ],
+    "user_id": 35,
+    "heart_rate": 96,
+    "blood_pressure": "130/66",
+    "respiration_rate": 14,
+    "body_temperature": 36.04,
+    "blood_glucose_levels": 125.23716517181113,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 82.88,
+    "data_creation_time": 1716367851.3458617,
+    "timestamp": "2024-05-22 15:50:51"
+}

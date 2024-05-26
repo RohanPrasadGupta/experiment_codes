@@ -1,0 +1,28 @@
+{
+    "first_name": "Jose",
+    "last_name": "Mcclain",
+    "date_of_birth": "1981-02-03",
+    "gender": "Male",
+    "address": "2570 Daniel Summit Suite 923\nWest Debbieburgh, MT 20913",
+    "phone_number": "603-236-7509",
+    "email_address": "hbarnes@example.org",
+    "authorized_data_users": [
+        "EMP046",
+        "EMP082",
+        "EMP044",
+        "EMP055",
+        "EMP063",
+        "EMP040",
+        "EMP024"
+    ],
+    "user_id": 137,
+    "heart_rate": 76,
+    "blood_pressure": "92/82",
+    "respiration_rate": 16,
+    "body_temperature": 36.0,
+    "blood_glucose_levels": 84.02159110993833,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 91.56,
+    "data_creation_time": 1716366877.101988,
+    "timestamp": "2024-05-22 15:34:37"
+}

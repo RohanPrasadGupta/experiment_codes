@@ -1,0 +1,30 @@
+{
+    "first_name": "Jeffrey",
+    "last_name": "Madden",
+    "date_of_birth": "1977-12-13",
+    "gender": "Male",
+    "address": "Unit 2568 Box 2845\nDPO AP 36721",
+    "phone_number": "+1-801-846-8402x396",
+    "email_address": "bianca02@example.net",
+    "authorized_data_users": [
+        "EMP024",
+        "EMP013",
+        "EMP055",
+        "EMP029",
+        "EMP035",
+        "EMP021",
+        "EMP014",
+        "EMP066",
+        "EMP083"
+    ],
+    "user_id": 150,
+    "heart_rate": 60,
+    "blood_pressure": "124/80",
+    "respiration_rate": 13,
+    "body_temperature": 36.19,
+    "blood_glucose_levels": 74.74307029037166,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 70.98,
+    "data_creation_time": 1716369081.7377083,
+    "timestamp": "2024-05-22 16:11:21"
+}

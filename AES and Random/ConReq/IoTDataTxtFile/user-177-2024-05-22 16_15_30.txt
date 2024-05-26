@@ -1,0 +1,23 @@
+{
+    "first_name": "Kelly",
+    "last_name": "Watkins",
+    "date_of_birth": "1989-07-01",
+    "gender": "Male",
+    "address": "159 Lori Stream\nNew Taylor, TX 22926",
+    "phone_number": "(280)991-4792x7918",
+    "email_address": "qandrews@example.com",
+    "authorized_data_users": [
+        "EMP075",
+        "EMP083"
+    ],
+    "user_id": 177,
+    "heart_rate": 78,
+    "blood_pressure": "99/67",
+    "respiration_rate": 14,
+    "body_temperature": 37.34,
+    "blood_glucose_levels": 132.213983030282,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 77.87,
+    "data_creation_time": 1716369330.8449385,
+    "timestamp": "2024-05-22 16:15:30"
+}

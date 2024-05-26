@@ -1,0 +1,28 @@
+{
+    "first_name": "Catherine",
+    "last_name": "Harrell",
+    "date_of_birth": "1994-03-10",
+    "gender": "Female",
+    "address": "5443 Hughes Rapid\nLake Brandonhaven, TX 13237",
+    "phone_number": "571.745.2314x5645",
+    "email_address": "colemanashley@example.org",
+    "authorized_data_users": [
+        "EMP010",
+        "EMP001",
+        "EMP069",
+        "EMP079",
+        "EMP013",
+        "EMP032",
+        "EMP081"
+    ],
+    "user_id": 75,
+    "heart_rate": 92,
+    "blood_pressure": "102/76",
+    "respiration_rate": 15,
+    "body_temperature": 37.45,
+    "blood_glucose_levels": 132.32038688710466,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 89.07,
+    "data_creation_time": 1716368234.4513023,
+    "timestamp": "2024-05-22 15:57:14"
+}

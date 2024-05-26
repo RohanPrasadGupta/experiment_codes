@@ -1,0 +1,26 @@
+{
+    "first_name": "Natalie",
+    "last_name": "Gibson",
+    "date_of_birth": "1968-10-31",
+    "gender": "Female",
+    "address": "5017 Smith Squares Suite 204\nWalterview, SD 77388",
+    "phone_number": "(797)220-6237x7856",
+    "email_address": "kristopherzamora@example.net",
+    "authorized_data_users": [
+        "EMP076",
+        "EMP001",
+        "EMP037",
+        "EMP027",
+        "EMP020"
+    ],
+    "user_id": 133,
+    "heart_rate": 72,
+    "blood_pressure": "90/69",
+    "respiration_rate": 16,
+    "body_temperature": 37.03,
+    "blood_glucose_levels": 96.57224445793062,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 59.66,
+    "data_creation_time": 1716366842.0850496,
+    "timestamp": "2024-05-22 15:34:02"
+}

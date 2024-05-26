@@ -1,0 +1,30 @@
+{
+    "first_name": "Erica",
+    "last_name": "Chambers",
+    "date_of_birth": "1990-08-14",
+    "gender": "Female",
+    "address": "94612 Valerie Divide\nSamuelhaven, MI 79817",
+    "phone_number": "(418)612-7594",
+    "email_address": "brandon57@example.net",
+    "authorized_data_users": [
+        "EMP005",
+        "EMP063",
+        "EMP026",
+        "EMP001",
+        "EMP035",
+        "EMP078",
+        "EMP072",
+        "EMP031",
+        "EMP022"
+    ],
+    "user_id": 109,
+    "heart_rate": 89,
+    "blood_pressure": "136/84",
+    "respiration_rate": 16,
+    "body_temperature": 37.01,
+    "blood_glucose_levels": 107.19195634295096,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 66.66,
+    "data_creation_time": 1716366554.0301855,
+    "timestamp": "2024-05-22 15:29:14"
+}

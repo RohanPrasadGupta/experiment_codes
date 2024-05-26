@@ -1,0 +1,29 @@
+{
+    "first_name": "Cory",
+    "last_name": "Thompson",
+    "date_of_birth": "1986-02-05",
+    "gender": "Female",
+    "address": "823 Anthony Turnpike Apt. 100\nWest Ryan, OR 71400",
+    "phone_number": "562-899-2998",
+    "email_address": "vincent49@example.org",
+    "authorized_data_users": [
+        "EMP041",
+        "EMP025",
+        "EMP047",
+        "EMP055",
+        "EMP020",
+        "EMP010",
+        "EMP056",
+        "EMP015"
+    ],
+    "user_id": 156,
+    "heart_rate": 100,
+    "blood_pressure": "136/89",
+    "respiration_rate": 16,
+    "body_temperature": 36.08,
+    "blood_glucose_levels": 103.18214918187567,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 70.21,
+    "data_creation_time": 1716367062.1431189,
+    "timestamp": "2024-05-22 15:37:42"
+}

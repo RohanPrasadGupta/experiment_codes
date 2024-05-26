@@ -1,0 +1,27 @@
+{
+    "first_name": "Thomas",
+    "last_name": "Morris",
+    "date_of_birth": "1987-01-22",
+    "gender": "Female",
+    "address": "67379 Frank Station Apt. 320\nNew James, NV 89822",
+    "phone_number": "+1-572-940-0163",
+    "email_address": "hdunn@example.org",
+    "authorized_data_users": [
+        "EMP054",
+        "EMP031",
+        "EMP060",
+        "EMP007",
+        "EMP032",
+        "EMP069"
+    ],
+    "user_id": 24,
+    "heart_rate": 79,
+    "blood_pressure": "103/79",
+    "respiration_rate": 16,
+    "body_temperature": 36.27,
+    "blood_glucose_levels": 85.19220951312782,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 96.42,
+    "data_creation_time": 1716367759.3204618,
+    "timestamp": "2024-05-22 15:49:19"
+}

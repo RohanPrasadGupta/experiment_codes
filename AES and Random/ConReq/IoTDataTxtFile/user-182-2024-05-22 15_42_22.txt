@@ -1,0 +1,22 @@
+{
+    "first_name": "David",
+    "last_name": "Zimmerman",
+    "date_of_birth": "1962-03-03",
+    "gender": "Female",
+    "address": "91637 Danielle Pines Suite 628\nPort Allison, PA 52746",
+    "phone_number": "(444)984-2879x14097",
+    "email_address": "lisahale@example.net",
+    "authorized_data_users": [
+        "EMP030"
+    ],
+    "user_id": 182,
+    "heart_rate": 61,
+    "blood_pressure": "134/67",
+    "respiration_rate": 19,
+    "body_temperature": 37.4,
+    "blood_glucose_levels": 73.41698312937224,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 86.68,
+    "data_creation_time": 1716367342.201984,
+    "timestamp": "2024-05-22 15:42:22"
+}

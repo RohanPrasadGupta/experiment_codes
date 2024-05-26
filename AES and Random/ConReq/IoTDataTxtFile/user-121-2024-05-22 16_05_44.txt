@@ -1,0 +1,22 @@
+{
+    "first_name": "Debbie",
+    "last_name": "Dalton",
+    "date_of_birth": "1987-12-28",
+    "gender": "Male",
+    "address": "02282 Larry View\nSchmittchester, TN 16217",
+    "phone_number": "001-436-474-9246x418",
+    "email_address": "juliewilliams@example.com",
+    "authorized_data_users": [
+        "EMP077"
+    ],
+    "user_id": 121,
+    "heart_rate": 79,
+    "blood_pressure": "117/70",
+    "respiration_rate": 17,
+    "body_temperature": 36.22,
+    "blood_glucose_levels": 113.34072690197004,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 51.59,
+    "data_creation_time": 1716368744.6143456,
+    "timestamp": "2024-05-22 16:05:44"
+}

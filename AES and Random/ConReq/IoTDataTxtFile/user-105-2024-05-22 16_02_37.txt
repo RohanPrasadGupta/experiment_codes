@@ -1,0 +1,31 @@
+{
+    "first_name": "Valerie",
+    "last_name": "Jennings",
+    "date_of_birth": "1958-02-21",
+    "gender": "Male",
+    "address": "578 Wanda Ferry Apt. 379\nHarveyborough, VT 87201",
+    "phone_number": "774-333-6544",
+    "email_address": "vrice@example.net",
+    "authorized_data_users": [
+        "EMP025",
+        "EMP066",
+        "EMP026",
+        "EMP061",
+        "EMP019",
+        "EMP047",
+        "EMP024",
+        "EMP073",
+        "EMP060",
+        "EMP031"
+    ],
+    "user_id": 105,
+    "heart_rate": 77,
+    "blood_pressure": "140/69",
+    "respiration_rate": 12,
+    "body_temperature": 37.01,
+    "blood_glucose_levels": 112.73439200381274,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 80.61,
+    "data_creation_time": 1716368557.5498235,
+    "timestamp": "2024-05-22 16:02:37"
+}

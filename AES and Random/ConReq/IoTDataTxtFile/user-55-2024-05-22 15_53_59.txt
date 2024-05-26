@@ -1,0 +1,31 @@
+{
+    "first_name": "Stacy",
+    "last_name": "Padilla",
+    "date_of_birth": "1971-08-15",
+    "gender": "Male",
+    "address": "888 Ramirez Prairie\nGardnerville, IA 42637",
+    "phone_number": "+1-395-796-7673x260",
+    "email_address": "pughdennis@example.com",
+    "authorized_data_users": [
+        "EMP055",
+        "EMP020",
+        "EMP070",
+        "EMP028",
+        "EMP058",
+        "EMP082",
+        "EMP075",
+        "EMP053",
+        "EMP063",
+        "EMP034"
+    ],
+    "user_id": 55,
+    "heart_rate": 97,
+    "blood_pressure": "105/74",
+    "respiration_rate": 19,
+    "body_temperature": 36.17,
+    "blood_glucose_levels": 105.03533904020271,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 85.4,
+    "data_creation_time": 1716368039.4015968,
+    "timestamp": "2024-05-22 15:53:59"
+}

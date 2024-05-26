@@ -1,0 +1,22 @@
+{
+    "first_name": "Jorge",
+    "last_name": "Fletcher",
+    "date_of_birth": "1991-02-15",
+    "gender": "Female",
+    "address": "491 Amanda Crescent\nRhondaport, PR 38110",
+    "phone_number": "295.498.1773",
+    "email_address": "hammonddiana@example.com",
+    "authorized_data_users": [
+        "EMP069"
+    ],
+    "user_id": 93,
+    "heart_rate": 91,
+    "blood_pressure": "122/87",
+    "respiration_rate": 17,
+    "body_temperature": 36.83,
+    "blood_glucose_levels": 126.70453434578113,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 77.19,
+    "data_creation_time": 1716368443.4998937,
+    "timestamp": "2024-05-22 16:00:43"
+}

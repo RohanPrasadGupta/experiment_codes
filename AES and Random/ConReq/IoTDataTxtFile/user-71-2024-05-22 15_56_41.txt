@@ -1,0 +1,27 @@
+{
+    "first_name": "Rachel",
+    "last_name": "Thomas",
+    "date_of_birth": "1957-02-24",
+    "gender": "Male",
+    "address": "34711 Mullins Valleys Suite 876\nHernandezton, OR 55820",
+    "phone_number": "+1-788-418-1537",
+    "email_address": "nathan70@example.org",
+    "authorized_data_users": [
+        "EMP034",
+        "EMP063",
+        "EMP062",
+        "EMP077",
+        "EMP043",
+        "EMP015"
+    ],
+    "user_id": 71,
+    "heart_rate": 79,
+    "blood_pressure": "121/90",
+    "respiration_rate": 20,
+    "body_temperature": 37.02,
+    "blood_glucose_levels": 118.51567914914453,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 52.63,
+    "data_creation_time": 1716368201.4409907,
+    "timestamp": "2024-05-22 15:56:41"
+}

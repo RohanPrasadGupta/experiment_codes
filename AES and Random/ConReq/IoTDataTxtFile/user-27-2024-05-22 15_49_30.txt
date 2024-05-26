@@ -1,0 +1,22 @@
+{
+    "first_name": "Jessica",
+    "last_name": "Daniels",
+    "date_of_birth": "1971-04-22",
+    "gender": "Female",
+    "address": "89223 Angela Mills\nWest Annashire, TX 83008",
+    "phone_number": "+1-547-924-9931x694",
+    "email_address": "fwilliams@example.com",
+    "authorized_data_users": [
+        "EMP008"
+    ],
+    "user_id": 27,
+    "heart_rate": 93,
+    "blood_pressure": "112/68",
+    "respiration_rate": 13,
+    "body_temperature": 37.32,
+    "blood_glucose_levels": 90.41769801182846,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 96.4,
+    "data_creation_time": 1716367770.3287926,
+    "timestamp": "2024-05-22 15:49:30"
+}

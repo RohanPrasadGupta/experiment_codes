@@ -1,0 +1,30 @@
+{
+    "first_name": "Amy",
+    "last_name": "Farley",
+    "date_of_birth": "1994-12-18",
+    "gender": "Female",
+    "address": "24972 Samantha Junction Suite 436\nKramerview, TN 33160",
+    "phone_number": "+1-358-774-3506",
+    "email_address": "kingkevin@example.net",
+    "authorized_data_users": [
+        "EMP012",
+        "EMP063",
+        "EMP046",
+        "EMP023",
+        "EMP054",
+        "EMP027",
+        "EMP069",
+        "EMP064",
+        "EMP065"
+    ],
+    "user_id": 64,
+    "heart_rate": 97,
+    "blood_pressure": "134/62",
+    "respiration_rate": 13,
+    "body_temperature": 36.66,
+    "blood_glucose_levels": 77.43543100848619,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 60.4,
+    "data_creation_time": 1716366070.8817112,
+    "timestamp": "2024-05-22 15:21:10"
+}

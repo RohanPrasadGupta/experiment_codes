@@ -1,0 +1,24 @@
+{
+    "first_name": "Stacey",
+    "last_name": "Lin",
+    "date_of_birth": "1988-07-12",
+    "gender": "Female",
+    "address": "53504 Woodward Valley\nPort Whitneyburgh, MI 88538",
+    "phone_number": "9359253111",
+    "email_address": "upatterson@example.net",
+    "authorized_data_users": [
+        "EMP041",
+        "EMP061",
+        "EMP066"
+    ],
+    "user_id": 92,
+    "heart_rate": 80,
+    "blood_pressure": "119/64",
+    "respiration_rate": 13,
+    "body_temperature": 37.12,
+    "blood_glucose_levels": 93.68516520813283,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 72.8,
+    "data_creation_time": 1716366372.9928205,
+    "timestamp": "2024-05-22 15:26:12"
+}

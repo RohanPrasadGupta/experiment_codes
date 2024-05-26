@@ -1,0 +1,24 @@
+{
+    "first_name": "Thomas",
+    "last_name": "Hawkins",
+    "date_of_birth": "1979-08-28",
+    "gender": "Male",
+    "address": "719 Douglas View\nChristinachester, GU 94811",
+    "phone_number": "284-466-5535x7121",
+    "email_address": "michael16@example.com",
+    "authorized_data_users": [
+        "EMP042",
+        "EMP055",
+        "EMP082"
+    ],
+    "user_id": 192,
+    "heart_rate": 72,
+    "blood_pressure": "93/68",
+    "respiration_rate": 13,
+    "body_temperature": 37.06,
+    "blood_glucose_levels": 137.08833419026604,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 62.27,
+    "data_creation_time": 1716367454.237763,
+    "timestamp": "2024-05-22 15:44:14"
+}

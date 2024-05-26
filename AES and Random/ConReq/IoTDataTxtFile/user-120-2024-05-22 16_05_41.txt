@@ -1,0 +1,31 @@
+{
+    "first_name": "David",
+    "last_name": "Mahoney",
+    "date_of_birth": "2000-01-04",
+    "gender": "Male",
+    "address": "6935 Barr Isle Apt. 339\nClementsberg, FM 52069",
+    "phone_number": "+1-449-567-4956",
+    "email_address": "glassamanda@example.com",
+    "authorized_data_users": [
+        "EMP071",
+        "EMP074",
+        "EMP024",
+        "EMP031",
+        "EMP082",
+        "EMP052",
+        "EMP012",
+        "EMP070",
+        "EMP060",
+        "EMP022"
+    ],
+    "user_id": 120,
+    "heart_rate": 90,
+    "blood_pressure": "91/79",
+    "respiration_rate": 17,
+    "body_temperature": 36.57,
+    "blood_glucose_levels": 75.31938175162765,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 98.98,
+    "data_creation_time": 1716368741.60993,
+    "timestamp": "2024-05-22 16:05:41"
+}

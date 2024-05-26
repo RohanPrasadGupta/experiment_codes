@@ -1,0 +1,25 @@
+{
+    "first_name": "Jared",
+    "last_name": "Caldwell",
+    "date_of_birth": "1967-11-19",
+    "gender": "Male",
+    "address": "59404 Mary Shoal\nMcdonaldhaven, FL 31747",
+    "phone_number": "+1-265-220-6248",
+    "email_address": "bsalinas@example.org",
+    "authorized_data_users": [
+        "EMP057",
+        "EMP028",
+        "EMP044",
+        "EMP031"
+    ],
+    "user_id": 189,
+    "heart_rate": 95,
+    "blood_pressure": "137/86",
+    "respiration_rate": 13,
+    "body_temperature": 37.18,
+    "blood_glucose_levels": 95.33536775752427,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 74.41,
+    "data_creation_time": 1716367418.2252347,
+    "timestamp": "2024-05-22 15:43:38"
+}

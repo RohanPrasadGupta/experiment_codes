@@ -1,0 +1,24 @@
+{
+    "first_name": "Natalie",
+    "last_name": "Petty",
+    "date_of_birth": "1965-04-20",
+    "gender": "Male",
+    "address": "37347 John Ports\nNorth Natashaborough, MT 21546",
+    "phone_number": "001-877-493-9708x640",
+    "email_address": "david90@example.org",
+    "authorized_data_users": [
+        "EMP078",
+        "EMP033",
+        "EMP039"
+    ],
+    "user_id": 178,
+    "heart_rate": 82,
+    "blood_pressure": "119/73",
+    "respiration_rate": 13,
+    "body_temperature": 37.31,
+    "blood_glucose_levels": 90.09416445984056,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 71.95,
+    "data_creation_time": 1716367288.1902952,
+    "timestamp": "2024-05-22 15:41:28"
+}

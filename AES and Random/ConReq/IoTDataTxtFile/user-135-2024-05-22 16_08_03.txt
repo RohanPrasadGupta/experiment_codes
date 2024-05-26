@@ -1,0 +1,29 @@
+{
+    "first_name": "Tony",
+    "last_name": "Charles",
+    "date_of_birth": "1990-01-30",
+    "gender": "Female",
+    "address": "3637 Nathaniel Shores\nLake Nataliestad, UT 23838",
+    "phone_number": "+1-568-464-2798x703",
+    "email_address": "danielle19@example.net",
+    "authorized_data_users": [
+        "EMP010",
+        "EMP002",
+        "EMP043",
+        "EMP040",
+        "EMP031",
+        "EMP053",
+        "EMP062",
+        "EMP046"
+    ],
+    "user_id": 135,
+    "heart_rate": 88,
+    "blood_pressure": "114/78",
+    "respiration_rate": 17,
+    "body_temperature": 37.07,
+    "blood_glucose_levels": 84.76080527199291,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 61.82,
+    "data_creation_time": 1716368883.6776874,
+    "timestamp": "2024-05-22 16:08:03"
+}

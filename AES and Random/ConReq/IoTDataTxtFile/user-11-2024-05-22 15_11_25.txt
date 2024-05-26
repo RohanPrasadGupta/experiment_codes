@@ -1,0 +1,22 @@
+{
+    "first_name": "Debra",
+    "last_name": "Martinez",
+    "date_of_birth": "1982-11-11",
+    "gender": "Female",
+    "address": "874 Esparza Crossing\nAlbertborough, AZ 50405",
+    "phone_number": "+1-255-820-3201",
+    "email_address": "janehodge@example.net",
+    "authorized_data_users": [
+        "EMP020"
+    ],
+    "user_id": 11,
+    "heart_rate": 77,
+    "blood_pressure": "114/84",
+    "respiration_rate": 17,
+    "body_temperature": 37.13,
+    "blood_glucose_levels": 89.34014889549519,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 63.88,
+    "data_creation_time": 1716365485.5646589,
+    "timestamp": "2024-05-22 15:11:25"
+}

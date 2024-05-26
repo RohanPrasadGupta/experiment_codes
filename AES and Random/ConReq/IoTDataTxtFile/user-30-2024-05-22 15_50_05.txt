@@ -1,0 +1,29 @@
+{
+    "first_name": "Jennifer",
+    "last_name": "Brown",
+    "date_of_birth": "1994-04-16",
+    "gender": "Female",
+    "address": "003 Joseph Landing Suite 902\nPort Jesusberg, IN 87996",
+    "phone_number": "+1-490-566-4476x2027",
+    "email_address": "nmiranda@example.net",
+    "authorized_data_users": [
+        "EMP053",
+        "EMP007",
+        "EMP048",
+        "EMP076",
+        "EMP070",
+        "EMP002",
+        "EMP063",
+        "EMP004"
+    ],
+    "user_id": 30,
+    "heart_rate": 90,
+    "blood_pressure": "114/70",
+    "respiration_rate": 19,
+    "body_temperature": 36.39,
+    "blood_glucose_levels": 109.23382568740561,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 93.95,
+    "data_creation_time": 1716367805.3356724,
+    "timestamp": "2024-05-22 15:50:05"
+}

@@ -1,0 +1,24 @@
+{
+    "first_name": "Pamela",
+    "last_name": "Smith",
+    "date_of_birth": "1976-01-11",
+    "gender": "Male",
+    "address": "061 Michael Circles\nMillerberg, IN 90560",
+    "phone_number": "572.721.0963",
+    "email_address": "baileyrichardson@example.net",
+    "authorized_data_users": [
+        "EMP041",
+        "EMP053",
+        "EMP071"
+    ],
+    "user_id": 108,
+    "heart_rate": 86,
+    "blood_pressure": "117/65",
+    "respiration_rate": 19,
+    "body_temperature": 36.31,
+    "blood_glucose_levels": 113.37831829748549,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 54.64,
+    "data_creation_time": 1716366552.0279267,
+    "timestamp": "2024-05-22 15:29:12"
+}

@@ -1,0 +1,28 @@
+{
+    "first_name": "Shane",
+    "last_name": "Moore",
+    "date_of_birth": "2003-07-29",
+    "gender": "Male",
+    "address": "044 Thornton Roads Apt. 902\nLeahburgh, NM 41406",
+    "phone_number": "(630)202-8784",
+    "email_address": "christinaperez@example.com",
+    "authorized_data_users": [
+        "EMP041",
+        "EMP064",
+        "EMP011",
+        "EMP042",
+        "EMP030",
+        "EMP028",
+        "EMP026"
+    ],
+    "user_id": 50,
+    "heart_rate": 74,
+    "blood_pressure": "90/73",
+    "respiration_rate": 13,
+    "body_temperature": 37.25,
+    "blood_glucose_levels": 71.52138807934593,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 80.84,
+    "data_creation_time": 1716367998.3866327,
+    "timestamp": "2024-05-22 15:53:18"
+}

@@ -1,0 +1,22 @@
+{
+    "first_name": "Kyle",
+    "last_name": "Meyer",
+    "date_of_birth": "1953-11-18",
+    "gender": "Female",
+    "address": "86904 Adams Forge Suite 836\nEast Christopherfort, MI 97801",
+    "phone_number": "+1-785-671-8858x4768",
+    "email_address": "garrettalejandro@example.com",
+    "authorized_data_users": [
+        "EMP075"
+    ],
+    "user_id": 107,
+    "heart_rate": 60,
+    "blood_pressure": "96/79",
+    "respiration_rate": 13,
+    "body_temperature": 36.05,
+    "blood_glucose_levels": 129.5684277143458,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 85.03,
+    "data_creation_time": 1716366542.0262773,
+    "timestamp": "2024-05-22 15:29:02"
+}

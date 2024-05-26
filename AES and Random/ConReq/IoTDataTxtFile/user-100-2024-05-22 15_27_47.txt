@@ -1,0 +1,23 @@
+{
+    "first_name": "Cindy",
+    "last_name": "Watts",
+    "date_of_birth": "1996-04-06",
+    "gender": "Female",
+    "address": "12198 Joshua Circles\nCharleshaven, MT 21280",
+    "phone_number": "(971)779-6802",
+    "email_address": "ijones@example.org",
+    "authorized_data_users": [
+        "EMP080",
+        "EMP069"
+    ],
+    "user_id": 100,
+    "heart_rate": 73,
+    "blood_pressure": "117/61",
+    "respiration_rate": 13,
+    "body_temperature": 36.8,
+    "blood_glucose_levels": 97.73682669908887,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 83.09,
+    "data_creation_time": 1716366467.0109205,
+    "timestamp": "2024-05-22 15:27:47"
+}

@@ -1,0 +1,26 @@
+{
+    "first_name": "Charles",
+    "last_name": "Trujillo",
+    "date_of_birth": "1959-10-19",
+    "gender": "Male",
+    "address": "2605 Jennifer Lodge\nDorseystad, NE 99596",
+    "phone_number": "+1-379-588-0274x3396",
+    "email_address": "ethan68@example.com",
+    "authorized_data_users": [
+        "EMP064",
+        "EMP046",
+        "EMP078",
+        "EMP062",
+        "EMP011"
+    ],
+    "user_id": 74,
+    "heart_rate": 70,
+    "blood_pressure": "124/74",
+    "respiration_rate": 16,
+    "body_temperature": 36.81,
+    "blood_glucose_levels": 84.15742566854523,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 58.18,
+    "data_creation_time": 1716368224.449293,
+    "timestamp": "2024-05-22 15:57:04"
+}

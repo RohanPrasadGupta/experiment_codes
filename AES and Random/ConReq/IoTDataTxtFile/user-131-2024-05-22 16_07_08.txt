@@ -1,0 +1,28 @@
+{
+    "first_name": "Pam",
+    "last_name": "Butler",
+    "date_of_birth": "1964-02-13",
+    "gender": "Male",
+    "address": "237 Chavez Spurs Suite 620\nPerezbury, OR 63359",
+    "phone_number": "(623)906-4702x63044",
+    "email_address": "jaime69@example.org",
+    "authorized_data_users": [
+        "EMP042",
+        "EMP001",
+        "EMP003",
+        "EMP007",
+        "EMP014",
+        "EMP058",
+        "EMP078"
+    ],
+    "user_id": 131,
+    "heart_rate": 97,
+    "blood_pressure": "120/73",
+    "respiration_rate": 17,
+    "body_temperature": 36.45,
+    "blood_glucose_levels": 94.69528225442235,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 55.97,
+    "data_creation_time": 1716368828.6613479,
+    "timestamp": "2024-05-22 16:07:08"
+}

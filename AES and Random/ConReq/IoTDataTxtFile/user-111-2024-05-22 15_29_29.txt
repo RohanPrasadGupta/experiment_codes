@@ -1,0 +1,23 @@
+{
+    "first_name": "Brian",
+    "last_name": "Hernandez",
+    "date_of_birth": "1974-09-27",
+    "gender": "Male",
+    "address": "664 Martin Motorway\nWest Tommy, HI 90312",
+    "phone_number": "+1-582-828-3712x612",
+    "email_address": "lovebrittany@example.com",
+    "authorized_data_users": [
+        "EMP007",
+        "EMP067"
+    ],
+    "user_id": 111,
+    "heart_rate": 87,
+    "blood_pressure": "111/75",
+    "respiration_rate": 13,
+    "body_temperature": 36.29,
+    "blood_glucose_levels": 123.05379935084812,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 68.33,
+    "data_creation_time": 1716366569.0363069,
+    "timestamp": "2024-05-22 15:29:29"
+}

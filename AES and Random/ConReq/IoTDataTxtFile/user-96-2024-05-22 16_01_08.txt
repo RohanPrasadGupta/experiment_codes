@@ -1,0 +1,30 @@
+{
+    "first_name": "Jonathan",
+    "last_name": "Valenzuela",
+    "date_of_birth": "1984-05-22",
+    "gender": "Female",
+    "address": "6950 Lopez Ports\nNorth Lauren, PA 69518",
+    "phone_number": "001-747-832-2380x960",
+    "email_address": "rodriguezgeorge@example.org",
+    "authorized_data_users": [
+        "EMP022",
+        "EMP068",
+        "EMP005",
+        "EMP011",
+        "EMP008",
+        "EMP063",
+        "EMP049",
+        "EMP002",
+        "EMP048"
+    ],
+    "user_id": 96,
+    "heart_rate": 97,
+    "blood_pressure": "124/82",
+    "respiration_rate": 12,
+    "body_temperature": 36.9,
+    "blood_glucose_levels": 133.5206269996415,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 64.11,
+    "data_creation_time": 1716368468.513346,
+    "timestamp": "2024-05-22 16:01:08"
+}

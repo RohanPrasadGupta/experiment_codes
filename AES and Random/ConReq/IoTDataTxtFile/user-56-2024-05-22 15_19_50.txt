@@ -1,0 +1,30 @@
+{
+    "first_name": "Lisa",
+    "last_name": "White",
+    "date_of_birth": "1968-02-27",
+    "gender": "Male",
+    "address": "322 Thomas Point\nNew Cathy, PA 99622",
+    "phone_number": "3733392941",
+    "email_address": "ericacombs@example.org",
+    "authorized_data_users": [
+        "EMP080",
+        "EMP074",
+        "EMP069",
+        "EMP058",
+        "EMP013",
+        "EMP059",
+        "EMP037",
+        "EMP062",
+        "EMP083"
+    ],
+    "user_id": 56,
+    "heart_rate": 95,
+    "blood_pressure": "118/88",
+    "respiration_rate": 13,
+    "body_temperature": 36.16,
+    "blood_glucose_levels": 126.31502361722474,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 89.08,
+    "data_creation_time": 1716365990.83135,
+    "timestamp": "2024-05-22 15:19:50"
+}

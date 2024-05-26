@@ -1,0 +1,24 @@
+{
+    "first_name": "Teresa",
+    "last_name": "Miller",
+    "date_of_birth": "1995-06-25",
+    "gender": "Male",
+    "address": "787 Torres Isle Suite 865\nWest Steventown, IA 15680",
+    "phone_number": "+1-462-866-5649x62126",
+    "email_address": "barnesjodi@example.org",
+    "authorized_data_users": [
+        "EMP009",
+        "EMP043",
+        "EMP011"
+    ],
+    "user_id": 34,
+    "heart_rate": 100,
+    "blood_pressure": "104/62",
+    "respiration_rate": 13,
+    "body_temperature": 36.07,
+    "blood_glucose_levels": 103.25880423959455,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 90.65,
+    "data_creation_time": 1716367835.3433666,
+    "timestamp": "2024-05-22 15:50:35"
+}

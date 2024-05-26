@@ -1,0 +1,28 @@
+{
+    "first_name": "Ashley",
+    "last_name": "Mendoza",
+    "date_of_birth": "1976-01-15",
+    "gender": "Female",
+    "address": "Unit 7447 Box 7247\nDPO AP 11351",
+    "phone_number": "(919)461-3466x024",
+    "email_address": "crawfordjustin@example.com",
+    "authorized_data_users": [
+        "EMP080",
+        "EMP070",
+        "EMP068",
+        "EMP003",
+        "EMP023",
+        "EMP039",
+        "EMP022"
+    ],
+    "user_id": 113,
+    "heart_rate": 63,
+    "blood_pressure": "102/84",
+    "respiration_rate": 12,
+    "body_temperature": 37.04,
+    "blood_glucose_levels": 120.24146366105538,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 92.68,
+    "data_creation_time": 1716366593.0412283,
+    "timestamp": "2024-05-22 15:29:53"
+}

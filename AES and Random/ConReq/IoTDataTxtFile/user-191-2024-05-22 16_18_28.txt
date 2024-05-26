@@ -1,0 +1,25 @@
+{
+    "first_name": "Jonathan",
+    "last_name": "Hanson",
+    "date_of_birth": "1985-08-12",
+    "gender": "Male",
+    "address": "895 Denise Gardens Apt. 674\nWest Michealbury, ID 25104",
+    "phone_number": "972-888-8840",
+    "email_address": "patrick09@example.org",
+    "authorized_data_users": [
+        "EMP063",
+        "EMP011",
+        "EMP062",
+        "EMP058"
+    ],
+    "user_id": 191,
+    "heart_rate": 85,
+    "blood_pressure": "90/73",
+    "respiration_rate": 19,
+    "body_temperature": 37.02,
+    "blood_glucose_levels": 106.25607321888417,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 99.71,
+    "data_creation_time": 1716369508.898359,
+    "timestamp": "2024-05-22 16:18:28"
+}

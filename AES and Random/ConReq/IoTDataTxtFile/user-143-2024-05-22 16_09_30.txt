@@ -1,0 +1,28 @@
+{
+    "first_name": "Zachary",
+    "last_name": "Schneider",
+    "date_of_birth": "1976-09-18",
+    "gender": "Male",
+    "address": "27735 Edward Center Suite 968\nFarmermouth, RI 09444",
+    "phone_number": "001-250-476-1703x38250",
+    "email_address": "tracycox@example.com",
+    "authorized_data_users": [
+        "EMP069",
+        "EMP006",
+        "EMP028",
+        "EMP053",
+        "EMP010",
+        "EMP049",
+        "EMP054"
+    ],
+    "user_id": 143,
+    "heart_rate": 78,
+    "blood_pressure": "99/86",
+    "respiration_rate": 14,
+    "body_temperature": 36.98,
+    "blood_glucose_levels": 117.304760581349,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 65.64,
+    "data_creation_time": 1716368970.709571,
+    "timestamp": "2024-05-22 16:09:30"
+}

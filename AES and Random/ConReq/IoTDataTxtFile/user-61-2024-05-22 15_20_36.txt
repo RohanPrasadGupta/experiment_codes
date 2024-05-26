@@ -1,0 +1,31 @@
+{
+    "first_name": "Debra",
+    "last_name": "Watson",
+    "date_of_birth": "1967-09-18",
+    "gender": "Male",
+    "address": "048 Parker Place\nPort Russell, NC 34813",
+    "phone_number": "+1-944-999-5959x525",
+    "email_address": "williamsjudith@example.org",
+    "authorized_data_users": [
+        "EMP072",
+        "EMP031",
+        "EMP038",
+        "EMP021",
+        "EMP042",
+        "EMP051",
+        "EMP013",
+        "EMP022",
+        "EMP054",
+        "EMP009"
+    ],
+    "user_id": 61,
+    "heart_rate": 81,
+    "blood_pressure": "122/87",
+    "respiration_rate": 12,
+    "body_temperature": 36.26,
+    "blood_glucose_levels": 131.57772049528353,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 84.41,
+    "data_creation_time": 1716366036.862655,
+    "timestamp": "2024-05-22 15:20:36"
+}

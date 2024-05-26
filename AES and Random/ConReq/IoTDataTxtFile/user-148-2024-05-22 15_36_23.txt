@@ -1,0 +1,30 @@
+{
+    "first_name": "Leonard",
+    "last_name": "Hammond",
+    "date_of_birth": "1996-03-21",
+    "gender": "Male",
+    "address": "51414 Steven Pines\nPort Larryville, WY 88545",
+    "phone_number": "244.911.7051",
+    "email_address": "josephcruz@example.com",
+    "authorized_data_users": [
+        "EMP001",
+        "EMP042",
+        "EMP062",
+        "EMP061",
+        "EMP023",
+        "EMP036",
+        "EMP047",
+        "EMP072",
+        "EMP070"
+    ],
+    "user_id": 148,
+    "heart_rate": 99,
+    "blood_pressure": "105/72",
+    "respiration_rate": 16,
+    "body_temperature": 37.29,
+    "blood_glucose_levels": 127.92611901473923,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 92.03,
+    "data_creation_time": 1716366983.1261294,
+    "timestamp": "2024-05-22 15:36:23"
+}

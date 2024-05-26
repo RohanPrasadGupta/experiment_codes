@@ -1,0 +1,25 @@
+{
+    "first_name": "Andrea",
+    "last_name": "Ward",
+    "date_of_birth": "1986-04-17",
+    "gender": "Female",
+    "address": "PSC 8780, Box 1749\nAPO AA 60938",
+    "phone_number": "960-208-9082x60820",
+    "email_address": "cristianfisher@example.com",
+    "authorized_data_users": [
+        "EMP023",
+        "EMP042",
+        "EMP069",
+        "EMP001"
+    ],
+    "user_id": 129,
+    "heart_rate": 79,
+    "blood_pressure": "124/75",
+    "respiration_rate": 19,
+    "body_temperature": 36.18,
+    "blood_glucose_levels": 137.03902314948422,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 56.66,
+    "data_creation_time": 1716368811.6536546,
+    "timestamp": "2024-05-22 16:06:51"
+}

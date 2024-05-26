@@ -1,0 +1,23 @@
+{
+    "first_name": "Samantha",
+    "last_name": "Escobar",
+    "date_of_birth": "1950-04-26",
+    "gender": "Male",
+    "address": "75694 Lewis Highway\nEast Katrina, VT 23532",
+    "phone_number": "707-461-2280x7063",
+    "email_address": "glee@example.com",
+    "authorized_data_users": [
+        "EMP082",
+        "EMP030"
+    ],
+    "user_id": 6,
+    "heart_rate": 76,
+    "blood_pressure": "106/67",
+    "respiration_rate": 19,
+    "body_temperature": 37.29,
+    "blood_glucose_levels": 106.42270581504053,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 53.75,
+    "data_creation_time": 1716365437.538652,
+    "timestamp": "2024-05-22 15:10:37"
+}

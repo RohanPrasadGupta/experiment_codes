@@ -1,0 +1,31 @@
+{
+    "first_name": "Jill",
+    "last_name": "Salazar",
+    "date_of_birth": "1954-12-15",
+    "gender": "Female",
+    "address": "683 Bailey Orchard\nPort Michelle, ME 04751",
+    "phone_number": "001-941-449-1561x08252",
+    "email_address": "justin81@example.org",
+    "authorized_data_users": [
+        "EMP054",
+        "EMP045",
+        "EMP082",
+        "EMP010",
+        "EMP023",
+        "EMP024",
+        "EMP016",
+        "EMP062",
+        "EMP075",
+        "EMP065"
+    ],
+    "user_id": 58,
+    "heart_rate": 95,
+    "blood_pressure": "93/60",
+    "respiration_rate": 13,
+    "body_temperature": 36.77,
+    "blood_glucose_levels": 106.2903066959284,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 92.48,
+    "data_creation_time": 1716368075.4096837,
+    "timestamp": "2024-05-22 15:54:35"
+}

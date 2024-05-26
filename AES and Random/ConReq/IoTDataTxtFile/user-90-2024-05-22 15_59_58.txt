@@ -1,0 +1,22 @@
+{
+    "first_name": "Anthony",
+    "last_name": "Lee",
+    "date_of_birth": "1971-07-02",
+    "gender": "Female",
+    "address": "079 Medina Loaf Suite 171\nElizabethland, CO 94038",
+    "phone_number": "746.593.7020",
+    "email_address": "qwang@example.com",
+    "authorized_data_users": [
+        "EMP047"
+    ],
+    "user_id": 90,
+    "heart_rate": 77,
+    "blood_pressure": "130/76",
+    "respiration_rate": 12,
+    "body_temperature": 36.58,
+    "blood_glucose_levels": 92.8541946260938,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 69.92,
+    "data_creation_time": 1716368398.488855,
+    "timestamp": "2024-05-22 15:59:58"
+}

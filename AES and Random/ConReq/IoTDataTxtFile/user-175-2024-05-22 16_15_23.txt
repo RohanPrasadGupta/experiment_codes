@@ -1,0 +1,28 @@
+{
+    "first_name": "Jacqueline",
+    "last_name": "Rowland",
+    "date_of_birth": "1983-04-30",
+    "gender": "Female",
+    "address": "PSC 6464, Box 6426\nAPO AA 45282",
+    "phone_number": "527.913.2022",
+    "email_address": "gregorysamantha@example.com",
+    "authorized_data_users": [
+        "EMP058",
+        "EMP072",
+        "EMP032",
+        "EMP003",
+        "EMP066",
+        "EMP036",
+        "EMP007"
+    ],
+    "user_id": 175,
+    "heart_rate": 70,
+    "blood_pressure": "135/61",
+    "respiration_rate": 20,
+    "body_temperature": 36.69,
+    "blood_glucose_levels": 118.39031862269923,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 76.58,
+    "data_creation_time": 1716369323.835349,
+    "timestamp": "2024-05-22 16:15:23"
+}

@@ -1,0 +1,24 @@
+{
+    "first_name": "Robert",
+    "last_name": "Alvarez",
+    "date_of_birth": "1956-05-16",
+    "gender": "Male",
+    "address": "71805 Lewis Spur Suite 036\nNew Coreyville, MH 55458",
+    "phone_number": "432.887.7461",
+    "email_address": "iellis@example.net",
+    "authorized_data_users": [
+        "EMP073",
+        "EMP042",
+        "EMP033"
+    ],
+    "user_id": 146,
+    "heart_rate": 90,
+    "blood_pressure": "109/68",
+    "respiration_rate": 13,
+    "body_temperature": 36.38,
+    "blood_glucose_levels": 82.36138840905632,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 91.76,
+    "data_creation_time": 1716366962.1216078,
+    "timestamp": "2024-05-22 15:36:02"
+}

@@ -1,0 +1,27 @@
+{
+    "first_name": "Yvonne",
+    "last_name": "Flowers",
+    "date_of_birth": "1979-08-03",
+    "gender": "Male",
+    "address": "95493 Carlson Crest Apt. 676\nNew Levi, KS 29053",
+    "phone_number": "(729)406-8206",
+    "email_address": "clarkrobert@example.com",
+    "authorized_data_users": [
+        "EMP063",
+        "EMP048",
+        "EMP065",
+        "EMP011",
+        "EMP041",
+        "EMP029"
+    ],
+    "user_id": 40,
+    "heart_rate": 64,
+    "blood_pressure": "121/61",
+    "respiration_rate": 19,
+    "body_temperature": 37.01,
+    "blood_glucose_levels": 70.86082582723135,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 70.83,
+    "data_creation_time": 1716365831.73455,
+    "timestamp": "2024-05-22 15:17:11"
+}

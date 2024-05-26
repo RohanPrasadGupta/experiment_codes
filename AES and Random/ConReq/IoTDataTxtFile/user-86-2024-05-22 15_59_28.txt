@@ -1,0 +1,29 @@
+{
+    "first_name": "Christopher",
+    "last_name": "Jenkins",
+    "date_of_birth": "1999-03-22",
+    "gender": "Male",
+    "address": "508 Fox Summit Suite 166\nNew Danielle, FL 42332",
+    "phone_number": "001-748-628-0375x427",
+    "email_address": "taylorthomas@example.org",
+    "authorized_data_users": [
+        "EMP037",
+        "EMP056",
+        "EMP068",
+        "EMP035",
+        "EMP008",
+        "EMP077",
+        "EMP017",
+        "EMP006"
+    ],
+    "user_id": 86,
+    "heart_rate": 79,
+    "blood_pressure": "106/81",
+    "respiration_rate": 16,
+    "body_temperature": 37.11,
+    "blood_glucose_levels": 83.53611025797262,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 93.34,
+    "data_creation_time": 1716368368.478011,
+    "timestamp": "2024-05-22 15:59:28"
+}

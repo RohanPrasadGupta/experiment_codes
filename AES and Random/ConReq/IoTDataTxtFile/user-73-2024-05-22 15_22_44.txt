@@ -1,0 +1,28 @@
+{
+    "first_name": "Yvonne",
+    "last_name": "Moore",
+    "date_of_birth": "1950-06-25",
+    "gender": "Female",
+    "address": "50274 James Ford\nNew Shawna, MN 22382",
+    "phone_number": "290-333-1270x1523",
+    "email_address": "jasonmoore@example.org",
+    "authorized_data_users": [
+        "EMP075",
+        "EMP077",
+        "EMP001",
+        "EMP055",
+        "EMP036",
+        "EMP034",
+        "EMP082"
+    ],
+    "user_id": 73,
+    "heart_rate": 66,
+    "blood_pressure": "99/80",
+    "respiration_rate": 18,
+    "body_temperature": 36.41,
+    "blood_glucose_levels": 123.65094278473141,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 99.29,
+    "data_creation_time": 1716366164.9300342,
+    "timestamp": "2024-05-22 15:22:44"
+}

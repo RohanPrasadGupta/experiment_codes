@@ -1,0 +1,23 @@
+{
+    "first_name": "Laura",
+    "last_name": "Coleman",
+    "date_of_birth": "2000-06-24",
+    "gender": "Female",
+    "address": "7293 Torres Parks Apt. 964\nSouth Eric, DC 09495",
+    "phone_number": "001-466-491-1260x69172",
+    "email_address": "daniel21@example.com",
+    "authorized_data_users": [
+        "EMP054",
+        "EMP008"
+    ],
+    "user_id": 72,
+    "heart_rate": 99,
+    "blood_pressure": "98/90",
+    "respiration_rate": 15,
+    "body_temperature": 36.52,
+    "blood_glucose_levels": 104.3547787967776,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 83.04,
+    "data_creation_time": 1716368207.4438167,
+    "timestamp": "2024-05-22 15:56:47"
+}

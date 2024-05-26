@@ -1,0 +1,26 @@
+{
+    "first_name": "Vincent",
+    "last_name": "Owens",
+    "date_of_birth": "1967-04-03",
+    "gender": "Female",
+    "address": "36331 Amanda Village\nDebraton, NJ 76512",
+    "phone_number": "+1-655-348-7237",
+    "email_address": "pmiller@example.org",
+    "authorized_data_users": [
+        "EMP061",
+        "EMP062",
+        "EMP057",
+        "EMP075",
+        "EMP081"
+    ],
+    "user_id": 87,
+    "heart_rate": 69,
+    "blood_pressure": "100/75",
+    "respiration_rate": 19,
+    "body_temperature": 37.43,
+    "blood_glucose_levels": 75.30446040298504,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 69.1,
+    "data_creation_time": 1716368372.4817123,
+    "timestamp": "2024-05-22 15:59:32"
+}

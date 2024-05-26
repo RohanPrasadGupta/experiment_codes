@@ -1,0 +1,29 @@
+{
+    "first_name": "Joshua",
+    "last_name": "Anderson",
+    "date_of_birth": "1984-05-18",
+    "gender": "Male",
+    "address": "1991 Shawn Extension\nAnnaport, MS 38329",
+    "phone_number": "952-320-4220",
+    "email_address": "spowell@example.com",
+    "authorized_data_users": [
+        "EMP004",
+        "EMP072",
+        "EMP023",
+        "EMP010",
+        "EMP021",
+        "EMP059",
+        "EMP061",
+        "EMP017"
+    ],
+    "user_id": 43,
+    "heart_rate": 92,
+    "blood_pressure": "114/73",
+    "respiration_rate": 19,
+    "body_temperature": 37.34,
+    "blood_glucose_levels": 107.73897157884298,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 68.86,
+    "data_creation_time": 1716367933.3688054,
+    "timestamp": "2024-05-22 15:52:13"
+}

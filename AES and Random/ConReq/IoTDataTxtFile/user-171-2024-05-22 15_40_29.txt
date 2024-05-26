@@ -1,0 +1,24 @@
+{
+    "first_name": "Frank",
+    "last_name": "Marquez",
+    "date_of_birth": "1947-02-20",
+    "gender": "Female",
+    "address": "2005 Elizabeth Brooks Apt. 318\nEast Melissachester, CA 02636",
+    "phone_number": "+1-420-458-3145x9909",
+    "email_address": "annaevans@example.com",
+    "authorized_data_users": [
+        "EMP008",
+        "EMP079",
+        "EMP034"
+    ],
+    "user_id": 171,
+    "heart_rate": 99,
+    "blood_pressure": "108/69",
+    "respiration_rate": 13,
+    "body_temperature": 37.33,
+    "blood_glucose_levels": 139.26349380806795,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 91.82,
+    "data_creation_time": 1716367229.174494,
+    "timestamp": "2024-05-22 15:40:29"
+}

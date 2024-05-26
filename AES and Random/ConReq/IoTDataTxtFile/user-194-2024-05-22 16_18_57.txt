@@ -1,0 +1,30 @@
+{
+    "first_name": "Stacy",
+    "last_name": "Morris",
+    "date_of_birth": "1985-04-22",
+    "gender": "Female",
+    "address": "604 Rodriguez Plaza Apt. 602\nNorth Joshua, KS 69909",
+    "phone_number": "608.769.1708",
+    "email_address": "alexandrafoster@example.com",
+    "authorized_data_users": [
+        "EMP009",
+        "EMP028",
+        "EMP051",
+        "EMP041",
+        "EMP031",
+        "EMP023",
+        "EMP059",
+        "EMP005",
+        "EMP066"
+    ],
+    "user_id": 194,
+    "heart_rate": 99,
+    "blood_pressure": "140/79",
+    "respiration_rate": 14,
+    "body_temperature": 37.26,
+    "blood_glucose_levels": 102.28966339797717,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 62.79,
+    "data_creation_time": 1716369537.909791,
+    "timestamp": "2024-05-22 16:18:57"
+}

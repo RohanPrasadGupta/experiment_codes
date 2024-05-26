@@ -1,0 +1,24 @@
+{
+    "first_name": "Austin",
+    "last_name": "Khan",
+    "date_of_birth": "1956-11-27",
+    "gender": "Female",
+    "address": "62761 Melissa Dam\nSouth Karinafurt, NY 85553",
+    "phone_number": "001-874-798-9698x32026",
+    "email_address": "bbrown@example.net",
+    "authorized_data_users": [
+        "EMP057",
+        "EMP017",
+        "EMP039"
+    ],
+    "user_id": 200,
+    "heart_rate": 62,
+    "blood_pressure": "120/75",
+    "respiration_rate": 12,
+    "body_temperature": 36.86,
+    "blood_glucose_levels": 93.20576077685703,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 87.82,
+    "data_creation_time": 1716369599.9329965,
+    "timestamp": "2024-05-22 16:19:59"
+}

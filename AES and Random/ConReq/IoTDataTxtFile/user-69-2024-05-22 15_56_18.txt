@@ -1,0 +1,23 @@
+{
+    "first_name": "Kenneth",
+    "last_name": "Mills",
+    "date_of_birth": "1992-04-11",
+    "gender": "Male",
+    "address": "5968 Gardner Meadows Suite 531\nJacksonmouth, PR 59805",
+    "phone_number": "934.607.3056x0770",
+    "email_address": "troy28@example.org",
+    "authorized_data_users": [
+        "EMP080",
+        "EMP065"
+    ],
+    "user_id": 69,
+    "heart_rate": 81,
+    "blood_pressure": "112/83",
+    "respiration_rate": 15,
+    "body_temperature": 37.09,
+    "blood_glucose_levels": 96.15353630516444,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 76.48,
+    "data_creation_time": 1716368178.436457,
+    "timestamp": "2024-05-22 15:56:18"
+}

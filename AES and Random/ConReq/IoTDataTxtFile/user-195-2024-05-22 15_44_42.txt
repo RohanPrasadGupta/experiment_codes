@@ -1,0 +1,24 @@
+{
+    "first_name": "Joshua",
+    "last_name": "Thomas",
+    "date_of_birth": "2003-12-26",
+    "gender": "Female",
+    "address": "794 Fuller Meadow Suite 187\nPort Chelseastad, FL 64952",
+    "phone_number": "(975)991-9642x65679",
+    "email_address": "cmiller@example.org",
+    "authorized_data_users": [
+        "EMP055",
+        "EMP028",
+        "EMP020"
+    ],
+    "user_id": 195,
+    "heart_rate": 95,
+    "blood_pressure": "117/65",
+    "respiration_rate": 13,
+    "body_temperature": 36.14,
+    "blood_glucose_levels": 86.62066385977492,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 59.52,
+    "data_creation_time": 1716367482.244952,
+    "timestamp": "2024-05-22 15:44:42"
+}

@@ -1,0 +1,27 @@
+{
+    "first_name": "Joshua",
+    "last_name": "Gomez",
+    "date_of_birth": "1975-07-29",
+    "gender": "Male",
+    "address": "4461 Sheryl Spurs Suite 486\nLake Billystad, AL 01170",
+    "phone_number": "424.360.2902x42060",
+    "email_address": "davisnicholas@example.com",
+    "authorized_data_users": [
+        "EMP043",
+        "EMP074",
+        "EMP010",
+        "EMP033",
+        "EMP052",
+        "EMP038"
+    ],
+    "user_id": 18,
+    "heart_rate": 68,
+    "blood_pressure": "122/70",
+    "respiration_rate": 13,
+    "body_temperature": 36.05,
+    "blood_glucose_levels": 76.14221352983279,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 68.08,
+    "data_creation_time": 1716365562.611032,
+    "timestamp": "2024-05-22 15:12:42"
+}

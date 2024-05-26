@@ -1,0 +1,28 @@
+{
+    "first_name": "Hannah",
+    "last_name": "Kelley",
+    "date_of_birth": "1951-06-17",
+    "gender": "Female",
+    "address": "7952 Jonathan Cove\nEast Jenna, AK 20934",
+    "phone_number": "279-738-8901x2974",
+    "email_address": "petergaines@example.net",
+    "authorized_data_users": [
+        "EMP065",
+        "EMP011",
+        "EMP081",
+        "EMP060",
+        "EMP009",
+        "EMP015",
+        "EMP063"
+    ],
+    "user_id": 52,
+    "heart_rate": 93,
+    "blood_pressure": "118/62",
+    "respiration_rate": 17,
+    "body_temperature": 36.17,
+    "blood_glucose_levels": 139.09012409176114,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 93.88,
+    "data_creation_time": 1716365947.8114667,
+    "timestamp": "2024-05-22 15:19:07"
+}

@@ -1,0 +1,22 @@
+{
+    "first_name": "Tommy",
+    "last_name": "Pena",
+    "date_of_birth": "1952-10-28",
+    "gender": "Female",
+    "address": "1736 Sarah Springs\nThomasmouth, GU 46732",
+    "phone_number": "4196511139",
+    "email_address": "dale85@example.com",
+    "authorized_data_users": [
+        "EMP073"
+    ],
+    "user_id": 23,
+    "heart_rate": 92,
+    "blood_pressure": "140/80",
+    "respiration_rate": 12,
+    "body_temperature": 36.98,
+    "blood_glucose_levels": 117.33176156001906,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 51.47,
+    "data_creation_time": 1716365612.6376545,
+    "timestamp": "2024-05-22 15:13:32"
+}

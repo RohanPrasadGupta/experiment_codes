@@ -1,0 +1,24 @@
+{
+    "first_name": "Matthew",
+    "last_name": "Evans",
+    "date_of_birth": "1979-12-02",
+    "gender": "Male",
+    "address": "USS Holmes\nFPO AP 81967",
+    "phone_number": "+1-811-674-2652",
+    "email_address": "heather70@example.org",
+    "authorized_data_users": [
+        "EMP081",
+        "EMP034",
+        "EMP062"
+    ],
+    "user_id": 46,
+    "heart_rate": 99,
+    "blood_pressure": "90/61",
+    "respiration_rate": 17,
+    "body_temperature": 36.54,
+    "blood_glucose_levels": 125.4112851858654,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 70.87,
+    "data_creation_time": 1716365894.7729745,
+    "timestamp": "2024-05-22 15:18:14"
+}

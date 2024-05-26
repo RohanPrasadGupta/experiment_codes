@@ -1,0 +1,29 @@
+{
+    "first_name": "Sean",
+    "last_name": "Howell",
+    "date_of_birth": "1959-06-15",
+    "gender": "Male",
+    "address": "32972 William Light Suite 302\nLake Joseph, MI 64041",
+    "phone_number": "001-311-760-7518x666",
+    "email_address": "liulindsey@example.com",
+    "authorized_data_users": [
+        "EMP082",
+        "EMP072",
+        "EMP010",
+        "EMP051",
+        "EMP059",
+        "EMP078",
+        "EMP045",
+        "EMP079"
+    ],
+    "user_id": 112,
+    "heart_rate": 92,
+    "blood_pressure": "125/81",
+    "respiration_rate": 19,
+    "body_temperature": 37.4,
+    "blood_glucose_levels": 99.99240724292086,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 52.39,
+    "data_creation_time": 1716366588.038673,
+    "timestamp": "2024-05-22 15:29:48"
+}

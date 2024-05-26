@@ -1,0 +1,23 @@
+{
+    "first_name": "Justin",
+    "last_name": "Berg",
+    "date_of_birth": "2006-03-28",
+    "gender": "Female",
+    "address": "918 Hamilton Avenue Suite 534\nNorth Javierhaven, ND 37282",
+    "phone_number": "(822)755-8315",
+    "email_address": "faulknerpatricia@example.org",
+    "authorized_data_users": [
+        "EMP062",
+        "EMP077"
+    ],
+    "user_id": 3,
+    "heart_rate": 94,
+    "blood_pressure": "121/75",
+    "respiration_rate": 19,
+    "body_temperature": 36.44,
+    "blood_glucose_levels": 138.73231014389467,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 89.06,
+    "data_creation_time": 1716367576.2671661,
+    "timestamp": "2024-05-22 15:46:16"
+}

@@ -1,0 +1,22 @@
+{
+    "first_name": "Joshua",
+    "last_name": "Oneill",
+    "date_of_birth": "1965-09-17",
+    "gender": "Male",
+    "address": "4527 Cindy Shores Suite 402\nNorth Baileyshire, UT 84487",
+    "phone_number": "6476623207",
+    "email_address": "leemorris@example.net",
+    "authorized_data_users": [
+        "EMP035"
+    ],
+    "user_id": 17,
+    "heart_rate": 86,
+    "blood_pressure": "111/62",
+    "respiration_rate": 13,
+    "body_temperature": 37.38,
+    "blood_glucose_levels": 77.71420130207485,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 58.75,
+    "data_creation_time": 1716367695.303362,
+    "timestamp": "2024-05-22 15:48:15"
+}

@@ -1,0 +1,25 @@
+{
+    "first_name": "Shawn",
+    "last_name": "Khan",
+    "date_of_birth": "1971-09-10",
+    "gender": "Male",
+    "address": "PSC 5919, Box 5442\nAPO AP 19053",
+    "phone_number": "+1-700-340-8700x136",
+    "email_address": "susanvargas@example.org",
+    "authorized_data_users": [
+        "EMP026",
+        "EMP047",
+        "EMP082",
+        "EMP049"
+    ],
+    "user_id": 14,
+    "heart_rate": 91,
+    "blood_pressure": "91/87",
+    "respiration_rate": 13,
+    "body_temperature": 36.51,
+    "blood_glucose_levels": 127.56404286905627,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 79.04,
+    "data_creation_time": 1716365504.5856657,
+    "timestamp": "2024-05-22 15:11:44"
+}

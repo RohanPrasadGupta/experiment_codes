@@ -1,0 +1,29 @@
+{
+    "first_name": "Heather",
+    "last_name": "Choi",
+    "date_of_birth": "1994-03-31",
+    "gender": "Female",
+    "address": "8523 Davis Gardens Suite 120\nPort James, NH 52146",
+    "phone_number": "001-417-369-5196x49554",
+    "email_address": "leadam@example.net",
+    "authorized_data_users": [
+        "EMP038",
+        "EMP028",
+        "EMP050",
+        "EMP002",
+        "EMP059",
+        "EMP071",
+        "EMP022",
+        "EMP066"
+    ],
+    "user_id": 127,
+    "heart_rate": 78,
+    "blood_pressure": "107/73",
+    "respiration_rate": 14,
+    "body_temperature": 36.88,
+    "blood_glucose_levels": 117.07234866407424,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 75.29,
+    "data_creation_time": 1716366776.0724976,
+    "timestamp": "2024-05-22 15:32:56"
+}

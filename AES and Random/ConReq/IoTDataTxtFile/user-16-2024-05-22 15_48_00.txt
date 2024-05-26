@@ -1,0 +1,27 @@
+{
+    "first_name": "Eric",
+    "last_name": "Hendricks",
+    "date_of_birth": "1959-12-11",
+    "gender": "Male",
+    "address": "6669 Jodi Spur\nJonathanmouth, AS 29548",
+    "phone_number": "465.498.9448x193",
+    "email_address": "phillip20@example.com",
+    "authorized_data_users": [
+        "EMP070",
+        "EMP066",
+        "EMP006",
+        "EMP012",
+        "EMP016",
+        "EMP076"
+    ],
+    "user_id": 16,
+    "heart_rate": 94,
+    "blood_pressure": "92/82",
+    "respiration_rate": 15,
+    "body_temperature": 37.28,
+    "blood_glucose_levels": 107.77456342022055,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 76.89,
+    "data_creation_time": 1716367680.301618,
+    "timestamp": "2024-05-22 15:48:00"
+}

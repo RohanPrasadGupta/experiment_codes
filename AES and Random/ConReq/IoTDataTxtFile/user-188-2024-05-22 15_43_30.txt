@@ -1,0 +1,29 @@
+{
+    "first_name": "Joseph",
+    "last_name": "Parker",
+    "date_of_birth": "1974-02-04",
+    "gender": "Female",
+    "address": "86615 Kevin Wall Suite 221\nLeeberg, MN 97135",
+    "phone_number": "(677)849-3161",
+    "email_address": "phillipsmark@example.com",
+    "authorized_data_users": [
+        "EMP049",
+        "EMP034",
+        "EMP015",
+        "EMP017",
+        "EMP067",
+        "EMP080",
+        "EMP048",
+        "EMP004"
+    ],
+    "user_id": 188,
+    "heart_rate": 66,
+    "blood_pressure": "101/84",
+    "respiration_rate": 14,
+    "body_temperature": 37.09,
+    "blood_glucose_levels": 134.26720804219278,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 83.35,
+    "data_creation_time": 1716367410.2234046,
+    "timestamp": "2024-05-22 15:43:30"
+}

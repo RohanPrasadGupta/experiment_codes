@@ -1,0 +1,28 @@
+{
+    "first_name": "Aaron",
+    "last_name": "Ross",
+    "date_of_birth": "2006-03-26",
+    "gender": "Female",
+    "address": "93497 Singh Gardens\nChavezshire, IN 86658",
+    "phone_number": "001-253-454-8120x078",
+    "email_address": "bbauer@example.com",
+    "authorized_data_users": [
+        "EMP062",
+        "EMP078",
+        "EMP007",
+        "EMP004",
+        "EMP057",
+        "EMP072",
+        "EMP045"
+    ],
+    "user_id": 48,
+    "heart_rate": 76,
+    "blood_pressure": "95/79",
+    "respiration_rate": 13,
+    "body_temperature": 36.81,
+    "blood_glucose_levels": 71.59748757339027,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 96.09,
+    "data_creation_time": 1716365912.7856028,
+    "timestamp": "2024-05-22 15:18:32"
+}

@@ -1,0 +1,27 @@
+{
+    "first_name": "Edward",
+    "last_name": "Bell",
+    "date_of_birth": "1951-02-24",
+    "gender": "Female",
+    "address": "315 Beth Villages Apt. 010\nKatherinestad, PA 62796",
+    "phone_number": "403-699-5328x436",
+    "email_address": "carl27@example.org",
+    "authorized_data_users": [
+        "EMP021",
+        "EMP006",
+        "EMP056",
+        "EMP045",
+        "EMP003",
+        "EMP040"
+    ],
+    "user_id": 115,
+    "heart_rate": 61,
+    "blood_pressure": "115/79",
+    "respiration_rate": 14,
+    "body_temperature": 37.4,
+    "blood_glucose_levels": 102.81497018161288,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 57.67,
+    "data_creation_time": 1716368687.588634,
+    "timestamp": "2024-05-22 16:04:47"
+}

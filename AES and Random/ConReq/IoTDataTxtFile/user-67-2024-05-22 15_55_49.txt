@@ -1,0 +1,28 @@
+{
+    "first_name": "Damon",
+    "last_name": "Moore",
+    "date_of_birth": "1965-04-08",
+    "gender": "Female",
+    "address": "18708 Pratt Mission\nAngelstad, WI 46594",
+    "phone_number": "(300)767-2941x54398",
+    "email_address": "katherinepotter@example.com",
+    "authorized_data_users": [
+        "EMP002",
+        "EMP021",
+        "EMP004",
+        "EMP075",
+        "EMP013",
+        "EMP052",
+        "EMP064"
+    ],
+    "user_id": 67,
+    "heart_rate": 71,
+    "blood_pressure": "119/87",
+    "respiration_rate": 20,
+    "body_temperature": 37.14,
+    "blood_glucose_levels": 101.91432569498527,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 70.15,
+    "data_creation_time": 1716368149.4318457,
+    "timestamp": "2024-05-22 15:55:49"
+}

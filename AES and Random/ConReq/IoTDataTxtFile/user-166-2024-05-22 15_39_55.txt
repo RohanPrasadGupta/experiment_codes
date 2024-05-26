@@ -1,0 +1,26 @@
+{
+    "first_name": "Christine",
+    "last_name": "Williams",
+    "date_of_birth": "1948-06-14",
+    "gender": "Female",
+    "address": "11562 Lee Hollow\nDavisland, PA 33751",
+    "phone_number": "(946)451-1806x6784",
+    "email_address": "anadaniels@example.org",
+    "authorized_data_users": [
+        "EMP028",
+        "EMP027",
+        "EMP025",
+        "EMP060",
+        "EMP067"
+    ],
+    "user_id": 166,
+    "heart_rate": 67,
+    "blood_pressure": "92/89",
+    "respiration_rate": 20,
+    "body_temperature": 37.18,
+    "blood_glucose_levels": 109.93405024543506,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 87.6,
+    "data_creation_time": 1716367195.163502,
+    "timestamp": "2024-05-22 15:39:55"
+}

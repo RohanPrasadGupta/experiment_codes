@@ -1,0 +1,31 @@
+{
+    "first_name": "Joseph",
+    "last_name": "Page",
+    "date_of_birth": "1951-10-22",
+    "gender": "Male",
+    "address": "40992 Ronald Manors Apt. 480\nAliciastad, IN 35764",
+    "phone_number": "677-798-0256",
+    "email_address": "robert66@example.org",
+    "authorized_data_users": [
+        "EMP007",
+        "EMP080",
+        "EMP065",
+        "EMP008",
+        "EMP001",
+        "EMP067",
+        "EMP018",
+        "EMP048",
+        "EMP082",
+        "EMP052"
+    ],
+    "user_id": 76,
+    "heart_rate": 79,
+    "blood_pressure": "97/62",
+    "respiration_rate": 18,
+    "body_temperature": 36.39,
+    "blood_glucose_levels": 118.3199645509106,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 85.2,
+    "data_creation_time": 1716368250.4546013,
+    "timestamp": "2024-05-22 15:57:30"
+}

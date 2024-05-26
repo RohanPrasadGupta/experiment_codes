@@ -1,0 +1,28 @@
+{
+    "first_name": "Kerry",
+    "last_name": "Moss",
+    "date_of_birth": "1957-10-07",
+    "gender": "Female",
+    "address": "850 Robinson Road\nCarpentershire, OR 17509",
+    "phone_number": "(702)834-6432x9026",
+    "email_address": "snelson@example.com",
+    "authorized_data_users": [
+        "EMP033",
+        "EMP029",
+        "EMP054",
+        "EMP016",
+        "EMP071",
+        "EMP044",
+        "EMP032"
+    ],
+    "user_id": 88,
+    "heart_rate": 62,
+    "blood_pressure": "131/73",
+    "respiration_rate": 12,
+    "body_temperature": 37.3,
+    "blood_glucose_levels": 121.21733134732744,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 75.43,
+    "data_creation_time": 1716368385.4839149,
+    "timestamp": "2024-05-22 15:59:45"
+}

@@ -1,0 +1,29 @@
+{
+    "first_name": "Carol",
+    "last_name": "Perkins",
+    "date_of_birth": "1980-11-13",
+    "gender": "Male",
+    "address": "091 Robert Parks Apt. 562\nPagebury, VT 87151",
+    "phone_number": "001-489-269-2140x760",
+    "email_address": "angelawhite@example.net",
+    "authorized_data_users": [
+        "EMP027",
+        "EMP079",
+        "EMP042",
+        "EMP046",
+        "EMP014",
+        "EMP024",
+        "EMP082",
+        "EMP048"
+    ],
+    "user_id": 102,
+    "heart_rate": 86,
+    "blood_pressure": "135/63",
+    "respiration_rate": 16,
+    "body_temperature": 36.05,
+    "blood_glucose_levels": 125.45628533857237,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 51.95,
+    "data_creation_time": 1716368529.5376248,
+    "timestamp": "2024-05-22 16:02:09"
+}

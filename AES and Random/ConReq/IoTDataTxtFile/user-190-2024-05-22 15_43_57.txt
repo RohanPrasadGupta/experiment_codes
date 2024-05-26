@@ -1,0 +1,30 @@
+{
+    "first_name": "Derrick",
+    "last_name": "Anderson",
+    "date_of_birth": "1996-09-12",
+    "gender": "Female",
+    "address": "98863 Madison Falls\nNorth Samanthaton, GU 89394",
+    "phone_number": "542.402.3173",
+    "email_address": "leedenise@example.net",
+    "authorized_data_users": [
+        "EMP083",
+        "EMP006",
+        "EMP053",
+        "EMP080",
+        "EMP068",
+        "EMP058",
+        "EMP064",
+        "EMP041",
+        "EMP061"
+    ],
+    "user_id": 190,
+    "heart_rate": 95,
+    "blood_pressure": "93/70",
+    "respiration_rate": 20,
+    "body_temperature": 37.19,
+    "blood_glucose_levels": 75.6316071764894,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 66.42,
+    "data_creation_time": 1716367437.2308838,
+    "timestamp": "2024-05-22 15:43:57"
+}

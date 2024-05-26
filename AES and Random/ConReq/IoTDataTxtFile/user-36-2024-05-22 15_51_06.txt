@@ -1,0 +1,30 @@
+{
+    "first_name": "Susan",
+    "last_name": "Macias",
+    "date_of_birth": "1981-11-01",
+    "gender": "Male",
+    "address": "29817 Hughes Station\nWest Linda, OR 73571",
+    "phone_number": "323-312-1928",
+    "email_address": "sparks@example.org",
+    "authorized_data_users": [
+        "EMP079",
+        "EMP018",
+        "EMP026",
+        "EMP038",
+        "EMP051",
+        "EMP043",
+        "EMP023",
+        "EMP015",
+        "EMP071"
+    ],
+    "user_id": 36,
+    "heart_rate": 69,
+    "blood_pressure": "133/71",
+    "respiration_rate": 17,
+    "body_temperature": 36.04,
+    "blood_glucose_levels": 103.85898665018428,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 69.19,
+    "data_creation_time": 1716367866.3491056,
+    "timestamp": "2024-05-22 15:51:06"
+}

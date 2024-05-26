@@ -1,0 +1,30 @@
+{
+    "first_name": "Gina",
+    "last_name": "Wilson",
+    "date_of_birth": "1996-11-09",
+    "gender": "Male",
+    "address": "0403 Rebecca Road Suite 099\nJohnshire, RI 54436",
+    "phone_number": "287.935.8143",
+    "email_address": "tnguyen@example.net",
+    "authorized_data_users": [
+        "EMP048",
+        "EMP072",
+        "EMP034",
+        "EMP039",
+        "EMP040",
+        "EMP066",
+        "EMP006",
+        "EMP068",
+        "EMP014"
+    ],
+    "user_id": 154,
+    "heart_rate": 68,
+    "blood_pressure": "123/69",
+    "respiration_rate": 16,
+    "body_temperature": 37.43,
+    "blood_glucose_levels": 96.57747962551043,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 76.37,
+    "data_creation_time": 1716369112.7530093,
+    "timestamp": "2024-05-22 16:11:52"
+}

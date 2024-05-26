@@ -1,0 +1,31 @@
+{
+    "first_name": "Steven",
+    "last_name": "Mitchell",
+    "date_of_birth": "1972-04-06",
+    "gender": "Female",
+    "address": "6036 Linda Cape Apt. 062\nPort Aaron, WI 17145",
+    "phone_number": "674.499.6414x86324",
+    "email_address": "villanuevafrancis@example.com",
+    "authorized_data_users": [
+        "EMP077",
+        "EMP067",
+        "EMP005",
+        "EMP044",
+        "EMP055",
+        "EMP033",
+        "EMP069",
+        "EMP079",
+        "EMP017",
+        "EMP027"
+    ],
+    "user_id": 144,
+    "heart_rate": 94,
+    "blood_pressure": "138/74",
+    "respiration_rate": 17,
+    "body_temperature": 37.36,
+    "blood_glucose_levels": 88.56604162225209,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 89.19,
+    "data_creation_time": 1716368984.7143035,
+    "timestamp": "2024-05-22 16:09:44"
+}

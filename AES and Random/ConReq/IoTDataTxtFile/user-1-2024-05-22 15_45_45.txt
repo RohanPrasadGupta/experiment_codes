@@ -1,0 +1,30 @@
+{
+    "first_name": "Leslie",
+    "last_name": "White",
+    "date_of_birth": "1993-02-24",
+    "gender": "Female",
+    "address": "473 Olson Villages Suite 979\nMaryville, WV 63662",
+    "phone_number": "+1-484-654-9201x345",
+    "email_address": "htucker@example.net",
+    "authorized_data_users": [
+        "EMP014",
+        "EMP065",
+        "EMP019",
+        "EMP003",
+        "EMP069",
+        "EMP045",
+        "EMP059",
+        "EMP009",
+        "EMP033"
+    ],
+    "user_id": 1,
+    "heart_rate": 84,
+    "blood_pressure": "132/89",
+    "respiration_rate": 19,
+    "body_temperature": 36.16,
+    "blood_glucose_levels": 113.88128507101757,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 75.8,
+    "data_creation_time": 1716367545.2617497,
+    "timestamp": "2024-05-22 15:45:45"
+}

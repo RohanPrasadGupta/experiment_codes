@@ -1,0 +1,31 @@
+{
+    "first_name": "Juan",
+    "last_name": "Edwards",
+    "date_of_birth": "1988-06-14",
+    "gender": "Female",
+    "address": "7687 Spencer Garden Suite 669\nSimonmouth, NM 95659",
+    "phone_number": "892.882.0324x556",
+    "email_address": "antonioreynolds@example.com",
+    "authorized_data_users": [
+        "EMP053",
+        "EMP008",
+        "EMP079",
+        "EMP081",
+        "EMP070",
+        "EMP078",
+        "EMP027",
+        "EMP015",
+        "EMP020",
+        "EMP001"
+    ],
+    "user_id": 10,
+    "heart_rate": 90,
+    "blood_pressure": "132/77",
+    "respiration_rate": 17,
+    "body_temperature": 37.3,
+    "blood_glucose_levels": 82.34373935967696,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 96.66,
+    "data_creation_time": 1716365475.558962,
+    "timestamp": "2024-05-22 15:11:15"
+}

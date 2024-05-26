@@ -1,0 +1,26 @@
+{
+    "first_name": "Rebecca",
+    "last_name": "Miles",
+    "date_of_birth": "1959-01-05",
+    "gender": "Female",
+    "address": "772 Gregory Manors\nMoralesfort, ND 65259",
+    "phone_number": "260.634.9282",
+    "email_address": "emilysmith@example.com",
+    "authorized_data_users": [
+        "EMP072",
+        "EMP034",
+        "EMP008",
+        "EMP051",
+        "EMP044"
+    ],
+    "user_id": 142,
+    "heart_rate": 69,
+    "blood_pressure": "132/70",
+    "respiration_rate": 18,
+    "body_temperature": 36.61,
+    "blood_glucose_levels": 85.2119507935582,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 82.62,
+    "data_creation_time": 1716366930.1130173,
+    "timestamp": "2024-05-22 15:35:30"
+}

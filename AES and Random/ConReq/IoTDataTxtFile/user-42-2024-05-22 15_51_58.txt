@@ -1,0 +1,22 @@
+{
+    "first_name": "Zachary",
+    "last_name": "Jackson",
+    "date_of_birth": "1958-05-01",
+    "gender": "Male",
+    "address": "154 Simmons Mountains\nMaryton, VT 38795",
+    "phone_number": "490.287.2951x4783",
+    "email_address": "blakecrystal@example.net",
+    "authorized_data_users": [
+        "EMP060"
+    ],
+    "user_id": 42,
+    "heart_rate": 98,
+    "blood_pressure": "138/64",
+    "respiration_rate": 18,
+    "body_temperature": 36.32,
+    "blood_glucose_levels": 85.95740630452731,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 94.92,
+    "data_creation_time": 1716367918.365413,
+    "timestamp": "2024-05-22 15:51:58"
+}

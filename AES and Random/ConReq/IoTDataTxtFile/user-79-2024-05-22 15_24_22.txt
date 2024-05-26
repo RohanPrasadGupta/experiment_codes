@@ -1,0 +1,27 @@
+{
+    "first_name": "Robert",
+    "last_name": "Williams",
+    "date_of_birth": "1962-02-23",
+    "gender": "Female",
+    "address": "4007 Smith Fords\nWest Eileenside, AL 28709",
+    "phone_number": "3069754818",
+    "email_address": "janedavis@example.net",
+    "authorized_data_users": [
+        "EMP047",
+        "EMP028",
+        "EMP071",
+        "EMP026",
+        "EMP083",
+        "EMP008"
+    ],
+    "user_id": 79,
+    "heart_rate": 97,
+    "blood_pressure": "107/75",
+    "respiration_rate": 13,
+    "body_temperature": 37.23,
+    "blood_glucose_levels": 78.6853306594739,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 93.21,
+    "data_creation_time": 1716366262.9543867,
+    "timestamp": "2024-05-22 15:24:22"
+}

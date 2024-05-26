@@ -1,0 +1,27 @@
+{
+    "first_name": "Alexandria",
+    "last_name": "Bryant",
+    "date_of_birth": "1998-10-17",
+    "gender": "Male",
+    "address": "460 Joseph Streets\nLake Jeremytown, AK 42290",
+    "phone_number": "(833)998-3548",
+    "email_address": "alexis22@example.net",
+    "authorized_data_users": [
+        "EMP071",
+        "EMP068",
+        "EMP073",
+        "EMP077",
+        "EMP019",
+        "EMP013"
+    ],
+    "user_id": 95,
+    "heart_rate": 100,
+    "blood_pressure": "109/78",
+    "respiration_rate": 12,
+    "body_temperature": 36.15,
+    "blood_glucose_levels": 126.78763375804778,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 95.91,
+    "data_creation_time": 1716366415.9995766,
+    "timestamp": "2024-05-22 15:26:55"
+}

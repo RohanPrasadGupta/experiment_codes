@@ -1,0 +1,27 @@
+{
+    "first_name": "Karen",
+    "last_name": "Coleman",
+    "date_of_birth": "1977-06-18",
+    "gender": "Male",
+    "address": "761 Smith Tunnel\nWest Dawn, PA 06063",
+    "phone_number": "4065565996",
+    "email_address": "zclark@example.net",
+    "authorized_data_users": [
+        "EMP082",
+        "EMP062",
+        "EMP010",
+        "EMP048",
+        "EMP053",
+        "EMP016"
+    ],
+    "user_id": 117,
+    "heart_rate": 95,
+    "blood_pressure": "127/79",
+    "respiration_rate": 13,
+    "body_temperature": 36.46,
+    "blood_glucose_levels": 82.35971255569231,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 58.47,
+    "data_creation_time": 1716368720.5987034,
+    "timestamp": "2024-05-22 16:05:20"
+}

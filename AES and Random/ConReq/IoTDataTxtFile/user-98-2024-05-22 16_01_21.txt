@@ -1,0 +1,31 @@
+{
+    "first_name": "Ryan",
+    "last_name": "Rojas",
+    "date_of_birth": "1952-01-01",
+    "gender": "Female",
+    "address": "631 Christopher Wells\nNorth Keithborough, MO 48761",
+    "phone_number": "+1-484-286-7413",
+    "email_address": "matthew76@example.com",
+    "authorized_data_users": [
+        "EMP025",
+        "EMP027",
+        "EMP079",
+        "EMP038",
+        "EMP075",
+        "EMP039",
+        "EMP058",
+        "EMP035",
+        "EMP041",
+        "EMP008"
+    ],
+    "user_id": 98,
+    "heart_rate": 69,
+    "blood_pressure": "97/60",
+    "respiration_rate": 20,
+    "body_temperature": 36.57,
+    "blood_glucose_levels": 107.47380612276501,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 63.57,
+    "data_creation_time": 1716368481.5220916,
+    "timestamp": "2024-05-22 16:01:21"
+}

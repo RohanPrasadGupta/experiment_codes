@@ -1,0 +1,25 @@
+{
+    "first_name": "Kathy",
+    "last_name": "Taylor",
+    "date_of_birth": "1945-07-08",
+    "gender": "Female",
+    "address": "95978 Caitlin Fort Apt. 938\nAndrewton, VT 21110",
+    "phone_number": "+1-763-931-1151x3347",
+    "email_address": "emartin@example.net",
+    "authorized_data_users": [
+        "EMP016",
+        "EMP043",
+        "EMP040",
+        "EMP014"
+    ],
+    "user_id": 176,
+    "heart_rate": 90,
+    "blood_pressure": "107/65",
+    "respiration_rate": 14,
+    "body_temperature": 36.47,
+    "blood_glucose_levels": 117.2114967589508,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 57.2,
+    "data_creation_time": 1716367271.184208,
+    "timestamp": "2024-05-22 15:41:11"
+}

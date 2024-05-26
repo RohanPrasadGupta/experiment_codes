@@ -1,0 +1,30 @@
+{
+    "first_name": "Kristina",
+    "last_name": "Gallagher",
+    "date_of_birth": "1950-07-06",
+    "gender": "Female",
+    "address": "24315 Brian Circles\nCarrollfort, WY 92318",
+    "phone_number": "+1-402-527-0049x98657",
+    "email_address": "hoganamanda@example.com",
+    "authorized_data_users": [
+        "EMP068",
+        "EMP075",
+        "EMP031",
+        "EMP021",
+        "EMP011",
+        "EMP029",
+        "EMP004",
+        "EMP063",
+        "EMP001"
+    ],
+    "user_id": 103,
+    "heart_rate": 65,
+    "blood_pressure": "128/60",
+    "respiration_rate": 19,
+    "body_temperature": 37.27,
+    "blood_glucose_levels": 129.85114183710166,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 87.65,
+    "data_creation_time": 1716366490.0186226,
+    "timestamp": "2024-05-22 15:28:10"
+}

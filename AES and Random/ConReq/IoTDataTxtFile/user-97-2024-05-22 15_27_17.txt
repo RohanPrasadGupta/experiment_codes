@@ -1,0 +1,29 @@
+{
+    "first_name": "Christopher",
+    "last_name": "Roberts",
+    "date_of_birth": "2005-01-22",
+    "gender": "Male",
+    "address": "177 Gonzales Tunnel Suite 668\nSouth Shawnville, AR 43818",
+    "phone_number": "552.697.6592x907",
+    "email_address": "yjohnson@example.net",
+    "authorized_data_users": [
+        "EMP032",
+        "EMP001",
+        "EMP035",
+        "EMP048",
+        "EMP027",
+        "EMP044",
+        "EMP005",
+        "EMP053"
+    ],
+    "user_id": 97,
+    "heart_rate": 60,
+    "blood_pressure": "122/70",
+    "respiration_rate": 13,
+    "body_temperature": 36.06,
+    "blood_glucose_levels": 74.68085875527717,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 91.45,
+    "data_creation_time": 1716366437.004391,
+    "timestamp": "2024-05-22 15:27:17"
+}

@@ -1,0 +1,25 @@
+{
+    "first_name": "Jesus",
+    "last_name": "Parker",
+    "date_of_birth": "1955-10-12",
+    "gender": "Female",
+    "address": "PSC 9581, Box 6676\nAPO AA 62364",
+    "phone_number": "+1-317-708-5411",
+    "email_address": "charles64@example.net",
+    "authorized_data_users": [
+        "EMP008",
+        "EMP039",
+        "EMP037",
+        "EMP017"
+    ],
+    "user_id": 193,
+    "heart_rate": 73,
+    "blood_pressure": "135/73",
+    "respiration_rate": 18,
+    "body_temperature": 36.4,
+    "blood_glucose_levels": 122.68735465826501,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 84.61,
+    "data_creation_time": 1716369528.906343,
+    "timestamp": "2024-05-22 16:18:48"
+}

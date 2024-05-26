@@ -1,0 +1,23 @@
+{
+    "first_name": "Benjamin",
+    "last_name": "Ellis",
+    "date_of_birth": "1970-10-26",
+    "gender": "Female",
+    "address": "00945 Robert Mills Suite 421\nNorth Lisachester, NH 49081",
+    "phone_number": "992-677-1210",
+    "email_address": "riverakeith@example.com",
+    "authorized_data_users": [
+        "EMP074",
+        "EMP053"
+    ],
+    "user_id": 47,
+    "heart_rate": 89,
+    "blood_pressure": "105/81",
+    "respiration_rate": 19,
+    "body_temperature": 36.52,
+    "blood_glucose_levels": 77.30963363541458,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 62.55,
+    "data_creation_time": 1716365899.7789752,
+    "timestamp": "2024-05-22 15:18:19"
+}

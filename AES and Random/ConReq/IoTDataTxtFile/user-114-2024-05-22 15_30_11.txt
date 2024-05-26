@@ -1,0 +1,25 @@
+{
+    "first_name": "Kimberly",
+    "last_name": "Walker",
+    "date_of_birth": "1986-07-13",
+    "gender": "Male",
+    "address": "00677 April Corner Apt. 097\nKaylaberg, MN 93196",
+    "phone_number": "001-623-988-8444x41815",
+    "email_address": "reidethan@example.org",
+    "authorized_data_users": [
+        "EMP045",
+        "EMP028",
+        "EMP008",
+        "EMP060"
+    ],
+    "user_id": 114,
+    "heart_rate": 69,
+    "blood_pressure": "103/76",
+    "respiration_rate": 15,
+    "body_temperature": 37.35,
+    "blood_glucose_levels": 138.6290268156181,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 91.32,
+    "data_creation_time": 1716366611.0432847,
+    "timestamp": "2024-05-22 15:30:11"
+}

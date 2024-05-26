@@ -1,0 +1,23 @@
+{
+    "first_name": "Tony",
+    "last_name": "Sampson",
+    "date_of_birth": "1948-11-25",
+    "gender": "Female",
+    "address": "0891 Prince Curve Suite 724\nBlackfort, PA 46786",
+    "phone_number": "3008095375",
+    "email_address": "campbelldavid@example.com",
+    "authorized_data_users": [
+        "EMP027",
+        "EMP034"
+    ],
+    "user_id": 138,
+    "heart_rate": 77,
+    "blood_pressure": "132/86",
+    "respiration_rate": 15,
+    "body_temperature": 36.89,
+    "blood_glucose_levels": 124.91644660007218,
+    "electrocardiogram": "Sample ECG data",
+    "body_weight": 54.97,
+    "data_creation_time": 1716368893.6908088,
+    "timestamp": "2024-05-22 16:08:13"
+}
