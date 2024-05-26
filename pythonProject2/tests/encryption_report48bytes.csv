@@ -1,0 +1,21 @@
+Number of Attributes,Policy,File Size (bytes),Key Generation Time (seconds),Encryption Time (seconds),Decryption Time (seconds)
+1,attr1,48,9.679794311523438e-05,2.2172927856445312e-05,4.0531158447265625e-05
+2,attr1 or attr2,48,3.719329833984375e-05,1.71661376953125e-05,2.765655517578125e-05
+3,attr1 or attr2 or attr3,48,9.5367431640625e-06,7.3909759521484375e-06,7.867813110351562e-06
+4,attr1 or attr2 or attr3 or attr4,48,1.2874603271484375e-05,7.62939453125e-06,7.152557373046875e-06
+5,attr1 or attr2 or attr3 or attr4 or attr5,48,5.245208740234375e-06,6.198883056640625e-06,1.0967254638671875e-05
+6,attr1 or attr2 or attr3 or attr4 or attr5 or attr6,48,4.76837158203125e-06,5.9604644775390625e-06,6.67572021484375e-06
+7,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7,48,5.0067901611328125e-06,8.344650268554688e-06,1.0013580322265625e-05
+8,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8,48,4.5299530029296875e-06,6.198883056640625e-06,6.67572021484375e-06
+9,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9,48,8.58306884765625e-06,1.0251998901367188e-05,6.9141387939453125e-06
+10,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10,48,4.76837158203125e-06,6.4373016357421875e-06,6.9141387939453125e-06
+11,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11,48,5.0067901611328125e-06,4.696846008300781e-05,3.337860107421875e-05
+12,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12,48,9.5367431640625e-06,1.9550323486328125e-05,1.1920928955078125e-05
+13,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13,48,5.4836273193359375e-06,2.6941299438476562e-05,1.2636184692382812e-05
+14,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13 or attr14,48,4.76837158203125e-06,6.198883056640625e-06,6.67572021484375e-06
+15,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13 or attr14 or attr15,48,7.3909759521484375e-06,5.9604644775390625e-06,6.67572021484375e-06
+16,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13 or attr14 or attr15 or attr16,48,4.5299530029296875e-06,7.152557373046875e-06,9.059906005859375e-06
+17,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13 or attr14 or attr15 or attr16 or attr17,48,4.5299530029296875e-06,6.198883056640625e-06,6.4373016357421875e-06
+18,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13 or attr14 or attr15 or attr16 or attr17 or attr18,48,1.049041748046875e-05,8.344650268554688e-06,6.4373016357421875e-06
+19,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13 or attr14 or attr15 or attr16 or attr17 or attr18 or attr19,48,4.291534423828125e-06,5.7220458984375e-06,6.67572021484375e-06
+20,attr1 or attr2 or attr3 or attr4 or attr5 or attr6 or attr7 or attr8 or attr9 or attr10 or attr11 or attr12 or attr13 or attr14 or attr15 or attr16 or attr17 or attr18 or attr19 or attr20,48,4.5299530029296875e-06,5.9604644775390625e-06,6.4373016357421875e-06

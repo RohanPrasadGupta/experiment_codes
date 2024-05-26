@@ -1,0 +1,8 @@
+DataUser = {
+    'Doctor1': 'EMP001', 'Nurse1': 'EMP002', 'Surgeon1': 'EMP003', 'Therapist1': 'EMP004',
+    'Pharmacist1': 'EMP005', 'Radiologist1': 'EMP006', 'Pathologist1': 'EMP007',
+    'Nurse2': 'EMP008', 'Doctor2': 'EMP009', 'Surgeon2': 'EMP010', 'Therapist2': 'EMP011',
+    'Pharmacist2': 'EMP012', 'Radiologist2': 'EMP013', 'Pathologist2': 'EMP014',
+    'Nurse3': 'EMP015', 'Doctor3': 'EMP016', 'Surgeon3': 'EMP017', 'Therapist3': 'EMP018',
+    'Pharmacist3': 'EMP019', 'Radiologist3': 'EMP020'
+}
